@@ -1,0 +1,501 @@
+State,Tourist Destination,Type,Popularity,Best Time to Visit,Associated Festival/Event,Entry Fee,Nearby Attractions,Notable Activities
+Rajasthan,Jaipur,Historical,High,October to March,Jaipur Literature Festival,Yes,"Amber Fort, Hawa Mahal, Jantar Mantar","City Palace tour, shopping at Johari Bazaar"
+Kerala,Alleppey,Natural,High,August to February,Nehru Trophy Boat Race,No,"Kumarakom, Marari Beach, Alappuzha Beach","Houseboat cruises, backwater exploration"
+Goa,Calangute Beach,Beach,High,November to February,Sunburn Festival,No,"Baga Beach, Anjuna Beach, Candolim Beach","Water sports, nightlife, shopping"
+Assam,Park 368,Hill Station,Medium,October to December,Bihu,Yes,National Parks,Wildlife Safari
+Bihar,Palace 302,Beach,High,October to December,Christmas,No,Beaches,Cultural Tours
+Bihar,Beach 194,Natural,High,April to June,Holi,Yes,Beaches,Boating
+Assam,Beach 341,Hill Station,Low,April to June,Holi,Yes,National Parks,Hiking
+Maharashtra,Hill Station 376,Natural,High,October to December,Baisakhi,No,National Parks,Hiking
+Maharashtra,Hill Station 56,Historical,Low,January to March,Durga Puja,Yes,Shopping Markets,Cultural Tours
+Uttar Pradesh,Temple 452,Adventure,High,April to June,Christmas,Yes,Temples,Cultural Tours
+Maharashtra,Palace 459,Adventure,High,October to December,Lohri,No,Waterfalls,Wildlife Safari
+Karnataka,Park 341,Beach,Low,July to September,Holi,No,Shopping Markets,Hiking
+Rajasthan,Temple 207,Adventure,Low,October to December,Diwali,Yes,Shopping Markets,Photography
+Tamil Nadu,Museum 145,Natural,Low,October to December,Navratri,Yes,Shopping Markets,Boating
+Rajasthan,Beach 348,Religious,Low,January to March,Lohri,No,Temples,Cultural Tours
+Assam,Beach 263,Religious,High,April to June,Baisakhi,Yes,National Parks,Photography
+Rajasthan,Palace 29,Natural,Low,January to March,Bihu,No,Temples,Cultural Tours
+Maharashtra,Hill Station 242,Beach,High,January to March,Pongal,No,Temples,Wildlife Safari
+Rajasthan,Palace 416,Adventure,Medium,July to September,Baisakhi,No,Waterfalls,Cultural Tours
+Madhya Pradesh,Park 170,Historical,Low,October to December,Durga Puja,No,Waterfalls,Boating
+Gujarat,Park 287,Beach,Low,April to June,Eid,No,Waterfalls,Hiking
+Rajasthan,Palace 499,Beach,Low,January to March,Holi,Yes,Waterfalls,Photography
+Madhya Pradesh,Temple 95,Religious,Medium,April to June,Holi,Yes,Temples,Wildlife Safari
+Punjab,Temple 132,Cultural,High,April to June,Navratri,No,National Parks,Hiking
+Madhya Pradesh,Palace 444,Beach,Low,October to December,Navratri,Yes,National Parks,Cultural Tours
+Maharashtra,Palace 477,Adventure,Medium,January to March,Diwali,Yes,Temples,Hiking
+Rajasthan,Fort 488,Religious,Medium,October to December,Bihu,No,Beaches,Boating
+Karnataka,Beach 302,Historical,Low,April to June,Holi,No,Waterfalls,Hiking
+Gujarat,Fort 415,Wildlife,Low,April to June,Holi,Yes,Temples,Shopping
+Rajasthan,Hill Station 76,Hill Station,Medium,April to June,Christmas,No,Beaches,Boating
+Bihar,Park 284,Wildlife,Medium,April to June,Holi,No,Beaches,Cultural Tours
+Karnataka,Temple 304,Wildlife,Low,April to June,Christmas,Yes,Temples,Wildlife Safari
+Uttar Pradesh,Fort 490,Beach,High,October to December,Holi,No,Shopping Markets,Boating
+Assam,Temple 474,Historical,Low,January to March,Navratri,No,Waterfalls,Wildlife Safari
+Karnataka,Beach 395,Historical,Medium,January to March,Eid,Yes,National Parks,Wildlife Safari
+Maharashtra,Hill Station 31,Natural,High,October to December,Pongal,Yes,National Parks,Photography
+Tamil Nadu,Park 212,Natural,Low,July to September,Eid,Yes,Temples,Shopping
+Madhya Pradesh,Palace 312,Adventure,Low,July to September,Lohri,No,National Parks,Cultural Tours
+Uttar Pradesh,Beach 405,Historical,Low,October to December,Durga Puja,Yes,Waterfalls,Photography
+Bihar,Hill Station 129,Natural,Medium,January to March,Bihu,No,Waterfalls,Boating
+Assam,Beach 442,Hill Station,High,October to December,Pongal,No,National Parks,Shopping
+Madhya Pradesh,Park 208,Natural,Medium,July to September,Pongal,Yes,National Parks,Photography
+Assam,Hill Station 227,Religious,High,July to September,Holi,Yes,Waterfalls,Shopping
+Uttar Pradesh,Park 215,Religious,High,July to September,Baisakhi,Yes,Beaches,Hiking
+Rajasthan,Park 169,Religious,Low,January to March,Navratri,No,National Parks,Hiking
+Bihar,Palace 178,Cultural,High,January to March,Lohri,Yes,National Parks,Photography
+Madhya Pradesh,Park 292,Historical,Medium,January to March,Eid,Yes,Shopping Markets,Cultural Tours
+Punjab,Museum 223,Religious,Low,April to June,Eid,No,Shopping Markets,Photography
+Maharashtra,Park 3,Beach,High,July to September,Durga Puja,Yes,Shopping Markets,Cultural Tours
+Rajasthan,Hill Station 340,Religious,Low,October to December,Bihu,No,Beaches,Boating
+Bihar,Temple 413,Religious,Medium,July to September,Bihu,No,Beaches,Shopping
+Punjab,Beach 66,Adventure,High,April to June,Eid,No,Shopping Markets,Boating
+Uttar Pradesh,Fort 55,Beach,High,January to March,Christmas,No,Temples,Hiking
+Gujarat,Hill Station 102,Religious,High,October to December,Diwali,Yes,Temples,Cultural Tours
+Uttar Pradesh,Museum 151,Beach,High,October to December,Durga Puja,No,National Parks,Cultural Tours
+Punjab,Palace 248,Natural,Medium,January to March,Navratri,No,National Parks,Wildlife Safari
+Punjab,Beach 185,Religious,Low,July to September,Navratri,Yes,National Parks,Wildlife Safari
+Punjab,Palace 45,Wildlife,Medium,July to September,Durga Puja,Yes,Beaches,Boating
+Madhya Pradesh,Temple 271,Hill Station,Low,July to September,Bihu,No,Temples,Photography
+Gujarat,Beach 22,Cultural,Low,January to March,Baisakhi,No,Waterfalls,Cultural Tours
+Uttar Pradesh,Temple 24,Religious,Medium,October to December,Baisakhi,No,Shopping Markets,Cultural Tours
+Uttar Pradesh,Beach 483,Natural,Medium,July to September,Navratri,No,Temples,Shopping
+Karnataka,Palace 70,Natural,Low,July to September,Bihu,Yes,Beaches,Wildlife Safari
+Tamil Nadu,Park 83,Cultural,High,July to September,Pongal,Yes,Shopping Markets,Photography
+Tamil Nadu,Palace 163,Beach,High,April to June,Diwali,Yes,National Parks,Photography
+Rajasthan,Beach 1,Historical,Low,July to September,Lohri,No,Shopping Markets,Wildlife Safari
+Punjab,Temple 236,Beach,Medium,October to December,Durga Puja,No,National Parks,Cultural Tours
+Tamil Nadu,Temple 122,Historical,Low,January to March,Baisakhi,Yes,Temples,Cultural Tours
+Assam,Beach 298,Historical,Low,October to December,Christmas,No,National Parks,Boating
+Bihar,Palace 252,Adventure,High,April to June,Eid,No,Temples,Hiking
+Madhya Pradesh,Beach 432,Hill Station,High,October to December,Durga Puja,Yes,Shopping Markets,Photography
+Maharashtra,Park 426,Wildlife,Low,April to June,Bihu,Yes,Temples,Cultural Tours
+Punjab,Hill Station 248,Adventure,Medium,July to September,Bihu,No,Waterfalls,Photography
+Karnataka,Museum 92,Adventure,Medium,January to March,Eid,No,Temples,Boating
+Uttar Pradesh,Museum 69,Cultural,Medium,July to September,Navratri,No,Shopping Markets,Shopping
+Madhya Pradesh,Park 97,Cultural,High,January to March,Eid,Yes,Temples,Wildlife Safari
+Karnataka,Temple 52,Hill Station,High,October to December,Durga Puja,No,Beaches,Shopping
+Gujarat,Museum 106,Beach,Low,January to March,Durga Puja,Yes,Temples,Hiking
+Bihar,Park 183,Historical,Medium,April to June,Pongal,No,National Parks,Cultural Tours
+Assam,Museum 55,Beach,Low,January to March,Diwali,No,Shopping Markets,Hiking
+Punjab,Park 251,Historical,Medium,July to September,Diwali,No,Shopping Markets,Photography
+Bihar,Museum 11,Historical,Medium,October to December,Christmas,Yes,Temples,Boating
+Gujarat,Hill Station 27,Wildlife,Medium,April to June,Durga Puja,Yes,National Parks,Wildlife Safari
+Tamil Nadu,Palace 182,Wildlife,High,January to March,Bihu,No,Waterfalls,Shopping
+Madhya Pradesh,Beach 25,Wildlife,High,April to June,Navratri,Yes,Beaches,Cultural Tours
+Madhya Pradesh,Beach 87,Historical,Low,July to September,Eid,No,National Parks,Photography
+Rajasthan,Fort 226,Wildlife,High,July to September,Holi,No,Waterfalls,Cultural Tours
+Tamil Nadu,Hill Station 61,Cultural,High,January to March,Christmas,Yes,Shopping Markets,Hiking
+Madhya Pradesh,Hill Station 325,Wildlife,Low,October to December,Bihu,No,Waterfalls,Cultural Tours
+Maharashtra,Hill Station 259,Historical,Medium,July to September,Lohri,No,National Parks,Shopping
+Karnataka,Museum 409,Wildlife,Medium,April to June,Navratri,Yes,National Parks,Cultural Tours
+Tamil Nadu,Beach 50,Cultural,Low,January to March,Pongal,No,Temples,Photography
+Rajasthan,Temple 396,Natural,Medium,January to March,Baisakhi,Yes,Temples,Boating
+Assam,Beach 425,Hill Station,Low,October to December,Navratri,Yes,Shopping Markets,Photography
+Tamil Nadu,Temple 454,Religious,High,April to June,Durga Puja,No,Shopping Markets,Shopping
+Tamil Nadu,Hill Station 41,Historical,Medium,July to September,Eid,Yes,Waterfalls,Photography
+Punjab,Beach 153,Hill Station,Medium,October to December,Bihu,Yes,Waterfalls,Shopping
+Karnataka,Museum 23,Cultural,Low,July to September,Eid,Yes,Temples,Wildlife Safari
+Bihar,Temple 344,Adventure,Low,October to December,Bihu,Yes,Temples,Cultural Tours
+Gujarat,Museum 201,Historical,Low,January to March,Christmas,No,National Parks,Cultural Tours
+Maharashtra,Fort 55,Natural,Medium,April to June,Lohri,Yes,Temples,Wildlife Safari
+Madhya Pradesh,Beach 398,Hill Station,Low,October to December,Diwali,Yes,Temples,Cultural Tours
+Tamil Nadu,Palace 313,Historical,Medium,April to June,Holi,Yes,National Parks,Boating
+Maharashtra,Park 402,Hill Station,High,July to September,Diwali,No,Beaches,Photography
+Punjab,Museum 276,Adventure,Low,July to September,Diwali,Yes,Waterfalls,Wildlife Safari
+Punjab,Temple 447,Natural,Medium,July to September,Holi,Yes,Waterfalls,Cultural Tours
+Maharashtra,Museum 197,Natural,Low,October to December,Pongal,No,National Parks,Wildlife Safari
+Gujarat,Fort 63,Cultural,High,April to June,Baisakhi,No,National Parks,Photography
+Rajasthan,Park 58,Adventure,Medium,October to December,Pongal,No,Waterfalls,Photography
+Madhya Pradesh,Museum 216,Natural,Low,July to September,Bihu,No,National Parks,Hiking
+Rajasthan,Park 340,Religious,Medium,January to March,Lohri,Yes,Waterfalls,Boating
+Punjab,Palace 471,Religious,High,July to September,Christmas,No,Beaches,Cultural Tours
+Uttar Pradesh,Fort 401,Hill Station,High,April to June,Christmas,No,Beaches,Shopping
+Rajasthan,Palace 309,Religious,Low,April to June,Bihu,Yes,Shopping Markets,Hiking
+Gujarat,Temple 56,Natural,Low,April to June,Holi,Yes,Temples,Cultural Tours
+Punjab,Fort 444,Hill Station,Low,October to December,Christmas,No,Waterfalls,Hiking
+Assam,Temple 82,Historical,Low,July to September,Navratri,Yes,Temples,Photography
+Karnataka,Fort 370,Beach,Low,January to March,Bihu,Yes,Temples,Wildlife Safari
+Maharashtra,Museum 323,Hill Station,Low,January to March,Durga Puja,Yes,Shopping Markets,Hiking
+Uttar Pradesh,Beach 323,Wildlife,Medium,July to September,Eid,No,Shopping Markets,Cultural Tours
+Punjab,Park 274,Historical,High,October to December,Holi,No,Waterfalls,Wildlife Safari
+Karnataka,Park 124,Beach,Medium,July to September,Holi,Yes,Shopping Markets,Boating
+Tamil Nadu,Hill Station 216,Hill Station,Medium,April to June,Navratri,Yes,Beaches,Boating
+Karnataka,Hill Station 294,Beach,High,April to June,Navratri,Yes,Beaches,Shopping
+Gujarat,Museum 284,Hill Station,Medium,April to June,Eid,Yes,National Parks,Shopping
+Madhya Pradesh,Hill Station 29,Religious,Low,April to June,Pongal,No,Temples,Shopping
+Tamil Nadu,Hill Station 263,Beach,Low,July to September,Baisakhi,No,Waterfalls,Boating
+Rajasthan,Hill Station 171,Cultural,Medium,July to September,Bihu,No,Waterfalls,Wildlife Safari
+Maharashtra,Temple 392,Religious,Medium,July to September,Bihu,Yes,Beaches,Photography
+Assam,Beach 293,Beach,Low,April to June,Bihu,Yes,Temples,Photography
+Uttar Pradesh,Palace 417,Wildlife,Medium,April to June,Holi,Yes,National Parks,Cultural Tours
+Maharashtra,Beach 184,Cultural,Medium,July to September,Diwali,No,National Parks,Boating
+Rajasthan,Park 423,Historical,Medium,October to December,Diwali,No,Waterfalls,Boating
+Gujarat,Museum 258,Natural,Low,July to September,Diwali,No,Waterfalls,Shopping
+Assam,Beach 64,Wildlife,Low,April to June,Bihu,No,Temples,Wildlife Safari
+Rajasthan,Beach 152,Adventure,Medium,October to December,Bihu,Yes,Temples,Boating
+Rajasthan,Temple 74,Natural,Medium,January to March,Diwali,No,National Parks,Boating
+Maharashtra,Temple 264,Religious,Low,April to June,Christmas,Yes,National Parks,Photography
+Madhya Pradesh,Temple 247,Wildlife,Low,October to December,Diwali,Yes,Beaches,Wildlife Safari
+Maharashtra,Beach 160,Hill Station,Medium,July to September,Durga Puja,Yes,National Parks,Boating
+Rajasthan,Hill Station 15,Natural,Medium,October to December,Diwali,Yes,Shopping Markets,Cultural Tours
+Maharashtra,Temple 313,Religious,Low,July to September,Holi,Yes,Beaches,Boating
+Gujarat,Fort 29,Historical,Medium,January to March,Pongal,No,National Parks,Boating
+Rajasthan,Palace 89,Hill Station,Medium,January to March,Navratri,No,National Parks,Hiking
+Gujarat,Fort 222,Natural,High,January to March,Navratri,No,Beaches,Shopping
+Gujarat,Temple 79,Adventure,Low,October to December,Holi,No,Shopping Markets,Cultural Tours
+Gujarat,Temple 61,Wildlife,Low,October to December,Durga Puja,No,Temples,Wildlife Safari
+Punjab,Temple 440,Historical,High,July to September,Navratri,Yes,Shopping Markets,Hiking
+Punjab,Beach 133,Beach,Low,October to December,Pongal,No,Beaches,Hiking
+Gujarat,Beach 279,Wildlife,Low,January to March,Christmas,No,Shopping Markets,Wildlife Safari
+Maharashtra,Museum 210,Wildlife,Medium,January to March,Lohri,No,Beaches,Shopping
+Madhya Pradesh,Park 228,Historical,Low,October to December,Lohri,No,Beaches,Boating
+Rajasthan,Palace 116,Natural,High,April to June,Pongal,Yes,Waterfalls,Shopping
+Bihar,Temple 452,Natural,Medium,October to December,Christmas,No,Shopping Markets,Photography
+Rajasthan,Palace 451,Wildlife,Medium,October to December,Durga Puja,No,Beaches,Cultural Tours
+Assam,Beach 385,Historical,Low,January to March,Durga Puja,Yes,Waterfalls,Boating
+Punjab,Hill Station 198,Religious,High,April to June,Pongal,Yes,Waterfalls,Photography
+Karnataka,Park 192,Religious,Medium,July to September,Baisakhi,No,Beaches,Shopping
+Rajasthan,Park 39,Adventure,Low,October to December,Lohri,No,Temples,Shopping
+Rajasthan,Museum 336,Hill Station,High,January to March,Pongal,Yes,Beaches,Wildlife Safari
+Tamil Nadu,Fort 460,Natural,Medium,January to March,Baisakhi,No,Temples,Cultural Tours
+Assam,Museum 379,Religious,Low,July to September,Bihu,No,Temples,Cultural Tours
+Gujarat,Park 88,Adventure,High,January to March,Diwali,Yes,Waterfalls,Cultural Tours
+Maharashtra,Museum 193,Wildlife,Low,October to December,Bihu,Yes,Temples,Hiking
+Bihar,Park 174,Beach,Medium,January to March,Christmas,No,National Parks,Wildlife Safari
+Madhya Pradesh,Temple 19,Historical,High,January to March,Holi,Yes,National Parks,Shopping
+Uttar Pradesh,Palace 151,Historical,High,April to June,Christmas,Yes,Beaches,Hiking
+Bihar,Beach 274,Hill Station,Low,April to June,Diwali,No,National Parks,Shopping
+Madhya Pradesh,Fort 305,Wildlife,Medium,July to September,Durga Puja,Yes,Shopping Markets,Shopping
+Madhya Pradesh,Beach 212,Hill Station,High,October to December,Bihu,No,Waterfalls,Hiking
+Bihar,Hill Station 221,Hill Station,Medium,July to September,Holi,No,National Parks,Shopping
+Bihar,Beach 248,Historical,Medium,January to March,Holi,Yes,Shopping Markets,Hiking
+Punjab,Beach 82,Cultural,Low,October to December,Bihu,No,National Parks,Wildlife Safari
+Karnataka,Park 255,Natural,High,October to December,Pongal,Yes,National Parks,Photography
+Gujarat,Palace 205,Historical,Medium,October to December,Baisakhi,No,National Parks,Photography
+Punjab,Fort 427,Hill Station,Low,April to June,Eid,No,National Parks,Boating
+Bihar,Museum 60,Natural,Medium,October to December,Holi,Yes,Shopping Markets,Wildlife Safari
+Maharashtra,Fort 371,Beach,Medium,April to June,Diwali,Yes,National Parks,Cultural Tours
+Tamil Nadu,Museum 432,Religious,High,July to September,Eid,Yes,Waterfalls,Cultural Tours
+Rajasthan,Park 38,Adventure,High,January to March,Baisakhi,Yes,National Parks,Wildlife Safari
+Assam,Museum 475,Natural,High,October to December,Christmas,No,Shopping Markets,Shopping
+Rajasthan,Fort 383,Natural,Low,April to June,Baisakhi,No,National Parks,Cultural Tours
+Maharashtra,Beach 109,Wildlife,High,October to December,Pongal,No,Temples,Boating
+Punjab,Fort 416,Cultural,Medium,April to June,Eid,Yes,National Parks,Cultural Tours
+Bihar,Fort 368,Religious,Medium,July to September,Diwali,Yes,Shopping Markets,Hiking
+Maharashtra,Park 277,Wildlife,High,July to September,Durga Puja,No,Waterfalls,Boating
+Bihar,Park 213,Adventure,Low,April to June,Christmas,Yes,National Parks,Shopping
+Maharashtra,Museum 268,Historical,High,April to June,Bihu,Yes,Temples,Wildlife Safari
+Gujarat,Hill Station 469,Wildlife,High,October to December,Durga Puja,Yes,Temples,Cultural Tours
+Maharashtra,Temple 219,Religious,Medium,October to December,Holi,Yes,Temples,Photography
+Rajasthan,Temple 22,Hill Station,Low,July to September,Eid,No,Beaches,Hiking
+Punjab,Museum 437,Religious,Medium,January to March,Lohri,Yes,Temples,Hiking
+Tamil Nadu,Fort 379,Wildlife,High,April to June,Diwali,No,National Parks,Photography
+Assam,Fort 359,Beach,High,January to March,Durga Puja,Yes,Temples,Photography
+Madhya Pradesh,Palace 313,Hill Station,Low,October to December,Diwali,No,Temples,Shopping
+Punjab,Beach 479,Religious,Low,January to March,Navratri,No,Shopping Markets,Wildlife Safari
+Madhya Pradesh,Museum 359,Wildlife,Low,April to June,Eid,Yes,Shopping Markets,Boating
+Uttar Pradesh,Museum 364,Religious,Medium,July to September,Eid,Yes,Shopping Markets,Wildlife Safari
+Gujarat,Hill Station 479,Religious,High,July to September,Durga Puja,Yes,Temples,Wildlife Safari
+Madhya Pradesh,Palace 220,Natural,Medium,October to December,Bihu,No,National Parks,Hiking
+Rajasthan,Park 196,Adventure,Medium,January to March,Eid,No,Beaches,Hiking
+Tamil Nadu,Park 260,Cultural,Low,July to September,Pongal,Yes,Beaches,Wildlife Safari
+Punjab,Fort 37,Beach,Medium,April to June,Bihu,No,Waterfalls,Hiking
+Karnataka,Palace 292,Cultural,High,July to September,Baisakhi,Yes,National Parks,Photography
+Rajasthan,Park 273,Wildlife,High,October to December,Durga Puja,Yes,Shopping Markets,Photography
+Madhya Pradesh,Temple 163,Adventure,High,January to March,Holi,Yes,National Parks,Hiking
+Madhya Pradesh,Museum 256,Wildlife,High,January to March,Christmas,Yes,Waterfalls,Boating
+Assam,Park 478,Religious,Medium,July to September,Pongal,Yes,Shopping Markets,Cultural Tours
+Karnataka,Palace 80,Historical,High,July to September,Durga Puja,No,Temples,Hiking
+Madhya Pradesh,Beach 439,Cultural,Low,July to September,Holi,Yes,Shopping Markets,Cultural Tours
+Maharashtra,Museum 321,Natural,High,April to June,Lohri,No,Shopping Markets,Hiking
+Madhya Pradesh,Fort 160,Beach,High,January to March,Pongal,Yes,Temples,Hiking
+Punjab,Beach 445,Beach,Medium,October to December,Baisakhi,No,Beaches,Hiking
+Rajasthan,Fort 417,Wildlife,High,October to December,Diwali,No,National Parks,Cultural Tours
+Madhya Pradesh,Park 419,Beach,High,January to March,Navratri,No,Shopping Markets,Wildlife Safari
+Madhya Pradesh,Park 188,Natural,Medium,April to June,Diwali,Yes,Shopping Markets,Shopping
+Gujarat,Museum 4,Adventure,Low,July to September,Bihu,No,National Parks,Shopping
+Uttar Pradesh,Beach 354,Beach,Medium,October to December,Navratri,Yes,Shopping Markets,Cultural Tours
+Madhya Pradesh,Hill Station 91,Beach,Medium,July to September,Navratri,Yes,Waterfalls,Photography
+Rajasthan,Temple 307,Historical,Medium,April to June,Holi,No,Beaches,Boating
+Assam,Hill Station 191,Cultural,High,January to March,Baisakhi,Yes,Waterfalls,Shopping
+Uttar Pradesh,Park 469,Historical,High,October to December,Holi,No,Temples,Photography
+Punjab,Palace 295,Adventure,Medium,January to March,Baisakhi,No,Shopping Markets,Boating
+Bihar,Palace 184,Natural,High,July to September,Diwali,No,National Parks,Hiking
+Tamil Nadu,Museum 216,Historical,Low,October to December,Navratri,Yes,National Parks,Wildlife Safari
+Tamil Nadu,Fort 215,Cultural,Low,October to December,Diwali,No,Waterfalls,Cultural Tours
+Punjab,Park 475,Historical,Medium,April to June,Navratri,No,National Parks,Boating
+Uttar Pradesh,Temple 34,Adventure,High,October to December,Navratri,Yes,Temples,Boating
+Maharashtra,Beach 98,Wildlife,Medium,April to June,Durga Puja,No,Beaches,Wildlife Safari
+Madhya Pradesh,Palace 283,Historical,Low,July to September,Christmas,No,Temples,Cultural Tours
+Assam,Palace 220,Adventure,Low,October to December,Lohri,Yes,Shopping Markets,Photography
+Assam,Museum 298,Cultural,Low,July to September,Eid,Yes,Temples,Cultural Tours
+Bihar,Hill Station 233,Adventure,Medium,October to December,Diwali,No,National Parks,Cultural Tours
+Punjab,Palace 286,Historical,Low,January to March,Durga Puja,No,National Parks,Shopping
+Uttar Pradesh,Hill Station 23,Beach,High,July to September,Durga Puja,Yes,National Parks,Cultural Tours
+Tamil Nadu,Fort 129,Beach,Low,April to June,Pongal,Yes,National Parks,Photography
+Bihar,Fort 290,Religious,High,January to March,Durga Puja,Yes,Waterfalls,Boating
+Karnataka,Park 239,Historical,Medium,October to December,Lohri,No,Beaches,Shopping
+Gujarat,Museum 449,Historical,High,July to September,Lohri,No,Waterfalls,Wildlife Safari
+Maharashtra,Museum 388,Natural,Low,January to March,Durga Puja,Yes,Shopping Markets,Cultural Tours
+Gujarat,Hill Station 267,Wildlife,Medium,October to December,Navratri,No,Waterfalls,Photography
+Karnataka,Temple 343,Cultural,Low,April to June,Eid,Yes,Beaches,Photography
+Rajasthan,Museum 166,Wildlife,High,July to September,Bihu,No,National Parks,Cultural Tours
+Punjab,Museum 410,Religious,High,April to June,Holi,No,Waterfalls,Wildlife Safari
+Tamil Nadu,Temple 127,Cultural,Low,October to December,Diwali,No,Shopping Markets,Boating
+Rajasthan,Beach 255,Historical,Low,January to March,Christmas,No,Beaches,Shopping
+Gujarat,Museum 67,Natural,Low,October to December,Eid,Yes,National Parks,Boating
+Maharashtra,Fort 11,Religious,Medium,April to June,Durga Puja,No,Waterfalls,Wildlife Safari
+Bihar,Park 487,Wildlife,Low,October to December,Diwali,Yes,National Parks,Shopping
+Punjab,Park 324,Wildlife,Medium,July to September,Navratri,No,Temples,Wildlife Safari
+Uttar Pradesh,Fort 483,Religious,Low,January to March,Durga Puja,Yes,Temples,Boating
+Rajasthan,Palace 97,Adventure,Medium,October to December,Lohri,Yes,National Parks,Hiking
+Madhya Pradesh,Hill Station 62,Adventure,High,April to June,Eid,No,Shopping Markets,Cultural Tours
+Tamil Nadu,Temple 249,Hill Station,High,April to June,Navratri,No,Beaches,Hiking
+Bihar,Beach 300,Adventure,Low,July to September,Christmas,Yes,Shopping Markets,Photography
+Punjab,Park 247,Historical,Low,April to June,Navratri,No,Temples,Wildlife Safari
+Maharashtra,Hill Station 422,Religious,Low,April to June,Holi,Yes,Waterfalls,Shopping
+Karnataka,Museum 82,Cultural,Medium,January to March,Durga Puja,No,Temples,Cultural Tours
+Punjab,Park 141,Beach,Medium,October to December,Holi,No,Shopping Markets,Shopping
+Punjab,Park 24,Hill Station,Low,October to December,Durga Puja,Yes,National Parks,Photography
+Punjab,Fort 389,Wildlife,Medium,April to June,Navratri,No,Temples,Boating
+Madhya Pradesh,Park 397,Adventure,High,April to June,Pongal,Yes,Temples,Shopping
+Karnataka,Fort 156,Cultural,Low,April to June,Diwali,Yes,National Parks,Wildlife Safari
+Gujarat,Beach 303,Cultural,Medium,October to December,Holi,Yes,Temples,Wildlife Safari
+Bihar,Temple 356,Natural,High,October to December,Diwali,No,National Parks,Cultural Tours
+Punjab,Palace 81,Cultural,Low,October to December,Eid,No,Beaches,Wildlife Safari
+Assam,Palace 159,Adventure,Medium,January to March,Pongal,No,National Parks,Shopping
+Assam,Palace 375,Wildlife,High,July to September,Baisakhi,Yes,Temples,Photography
+Assam,Temple 105,Historical,High,October to December,Holi,No,National Parks,Boating
+Karnataka,Museum 266,Religious,Low,April to June,Holi,Yes,Temples,Cultural Tours
+Uttar Pradesh,Park 294,Beach,High,July to September,Bihu,No,Beaches,Boating
+Uttar Pradesh,Museum 147,Adventure,Medium,October to December,Diwali,Yes,Beaches,Cultural Tours
+Maharashtra,Temple 260,Religious,Low,October to December,Eid,Yes,Temples,Wildlife Safari
+Gujarat,Fort 482,Wildlife,Low,October to December,Holi,No,Temples,Hiking
+Rajasthan,Museum 174,Religious,Medium,January to March,Bihu,Yes,Waterfalls,Photography
+Karnataka,Fort 165,Adventure,Medium,April to June,Pongal,No,National Parks,Boating
+Madhya Pradesh,Beach 338,Cultural,High,October to December,Pongal,Yes,Waterfalls,Photography
+Karnataka,Fort 388,Adventure,High,April to June,Christmas,Yes,National Parks,Cultural Tours
+Rajasthan,Palace 130,Cultural,Medium,October to December,Christmas,Yes,Shopping Markets,Cultural Tours
+Gujarat,Hill Station 381,Natural,Medium,January to March,Navratri,Yes,Beaches,Wildlife Safari
+Uttar Pradesh,Hill Station 13,Beach,Medium,January to March,Lohri,Yes,Shopping Markets,Cultural Tours
+Karnataka,Temple 174,Beach,Low,July to September,Eid,Yes,Beaches,Photography
+Punjab,Museum 239,Natural,Low,July to September,Baisakhi,No,National Parks,Hiking
+Rajasthan,Beach 467,Natural,High,July to September,Eid,Yes,Beaches,Hiking
+Punjab,Museum 75,Adventure,Low,October to December,Durga Puja,Yes,National Parks,Shopping
+Uttar Pradesh,Temple 245,Cultural,Medium,January to March,Navratri,Yes,Shopping Markets,Boating
+Bihar,Fort 228,Hill Station,High,July to September,Durga Puja,Yes,Shopping Markets,Cultural Tours
+Maharashtra,Temple 278,Religious,Medium,October to December,Navratri,No,Waterfalls,Boating
+Assam,Palace 151,Adventure,High,July to September,Holi,Yes,Shopping Markets,Wildlife Safari
+Assam,Fort 164,Adventure,Low,October to December,Diwali,No,Waterfalls,Wildlife Safari
+Madhya Pradesh,Hill Station 108,Natural,Medium,October to December,Christmas,No,Beaches,Photography
+Bihar,Hill Station 274,Natural,Medium,April to June,Baisakhi,Yes,Beaches,Cultural Tours
+Uttar Pradesh,Park 43,Religious,Medium,January to March,Lohri,Yes,Shopping Markets,Photography
+Maharashtra,Beach 408,Cultural,High,January to March,Holi,Yes,Shopping Markets,Wildlife Safari
+Gujarat,Beach 128,Natural,Medium,April to June,Holi,Yes,Beaches,Boating
+Rajasthan,Beach 65,Hill Station,Low,October to December,Bihu,No,National Parks,Hiking
+Tamil Nadu,Hill Station 56,Wildlife,Low,October to December,Bihu,Yes,Shopping Markets,Shopping
+Uttar Pradesh,Temple 315,Religious,Low,January to March,Eid,No,Beaches,Cultural Tours
+Rajasthan,Museum 330,Wildlife,Low,April to June,Pongal,No,Shopping Markets,Photography
+Bihar,Park 201,Cultural,Low,January to March,Pongal,Yes,Beaches,Wildlife Safari
+Assam,Park 303,Adventure,Medium,April to June,Bihu,Yes,Temples,Wildlife Safari
+Karnataka,Beach 446,Wildlife,Medium,July to September,Christmas,Yes,National Parks,Wildlife Safari
+Madhya Pradesh,Hill Station 358,Adventure,Low,January to March,Holi,No,Waterfalls,Boating
+Tamil Nadu,Fort 249,Cultural,High,October to December,Durga Puja,No,Temples,Boating
+Bihar,Temple 215,Adventure,Low,April to June,Pongal,No,Beaches,Boating
+Uttar Pradesh,Fort 313,Natural,Low,July to September,Baisakhi,Yes,Beaches,Wildlife Safari
+Punjab,Temple 209,Natural,Medium,July to September,Lohri,Yes,Shopping Markets,Shopping
+Gujarat,Fort 374,Hill Station,Low,July to September,Durga Puja,No,Temples,Wildlife Safari
+Punjab,Palace 118,Beach,Medium,January to March,Baisakhi,No,Beaches,Hiking
+Karnataka,Museum 264,Hill Station,Medium,January to March,Durga Puja,No,National Parks,Hiking
+Tamil Nadu,Museum 328,Natural,Low,April to June,Baisakhi,No,National Parks,Hiking
+Tamil Nadu,Park 133,Historical,Medium,January to March,Lohri,No,Shopping Markets,Boating
+Rajasthan,Park 304,Adventure,Medium,October to December,Christmas,No,Temples,Hiking
+Uttar Pradesh,Hill Station 202,Hill Station,High,October to December,Holi,Yes,Temples,Photography
+Maharashtra,Museum 500,Hill Station,High,October to December,Christmas,No,Temples,Shopping
+Karnataka,Beach 254,Wildlife,Low,July to September,Diwali,No,Waterfalls,Cultural Tours
+Madhya Pradesh,Palace 446,Religious,Low,July to September,Christmas,No,Beaches,Wildlife Safari
+Bihar,Museum 180,Beach,High,July to September,Bihu,Yes,Waterfalls,Cultural Tours
+Maharashtra,Beach 141,Natural,High,October to December,Diwali,Yes,Waterfalls,Shopping
+Assam,Beach 305,Adventure,Low,October to December,Navratri,No,Beaches,Boating
+Madhya Pradesh,Hill Station 405,Historical,Low,January to March,Durga Puja,No,Temples,Photography
+Punjab,Temple 446,Beach,Low,July to September,Holi,No,Shopping Markets,Wildlife Safari
+Rajasthan,Hill Station 333,Cultural,Low,July to September,Christmas,No,Temples,Cultural Tours
+Maharashtra,Temple 264,Religious,Low,April to June,Bihu,No,National Parks,Boating
+Karnataka,Fort 201,Beach,Medium,October to December,Christmas,No,Waterfalls,Hiking
+Madhya Pradesh,Museum 403,Hill Station,Low,October to December,Lohri,No,Temples,Shopping
+Rajasthan,Museum 8,Natural,Low,October to December,Navratri,No,Beaches,Cultural Tours
+Rajasthan,Hill Station 52,Religious,High,April to June,Diwali,No,Shopping Markets,Photography
+Gujarat,Temple 243,Hill Station,Medium,April to June,Navratri,No,National Parks,Photography
+Karnataka,Beach 210,Historical,Medium,April to June,Baisakhi,No,Shopping Markets,Hiking
+Bihar,Temple 500,Historical,High,July to September,Baisakhi,No,Shopping Markets,Cultural Tours
+Rajasthan,Park 449,Cultural,High,July to September,Bihu,No,Shopping Markets,Photography
+Uttar Pradesh,Museum 153,Hill Station,Medium,April to June,Eid,No,Beaches,Photography
+Maharashtra,Palace 209,Cultural,Low,April to June,Christmas,Yes,Beaches,Shopping
+Gujarat,Fort 390,Hill Station,High,January to March,Navratri,Yes,Temples,Shopping
+Tamil Nadu,Museum 285,Beach,High,April to June,Diwali,Yes,Beaches,Boating
+Rajasthan,Beach 498,Hill Station,Medium,July to September,Christmas,Yes,Beaches,Cultural Tours
+Maharashtra,Hill Station 30,Cultural,High,April to June,Holi,Yes,Waterfalls,Cultural Tours
+Punjab,Beach 272,Natural,Medium,April to June,Diwali,No,Waterfalls,Hiking
+Punjab,Hill Station 126,Natural,Medium,April to June,Durga Puja,Yes,National Parks,Wildlife Safari
+Madhya Pradesh,Fort 136,Natural,Low,October to December,Lohri,No,Shopping Markets,Photography
+Punjab,Museum 97,Wildlife,High,April to June,Durga Puja,Yes,National Parks,Wildlife Safari
+Tamil Nadu,Museum 309,Historical,Medium,April to June,Christmas,Yes,Temples,Boating
+Uttar Pradesh,Museum 118,Religious,Medium,April to June,Diwali,Yes,Beaches,Hiking
+Madhya Pradesh,Park 221,Adventure,Low,July to September,Holi,No,Waterfalls,Photography
+Bihar,Hill Station 396,Adventure,Low,October to December,Diwali,No,Waterfalls,Cultural Tours
+Uttar Pradesh,Hill Station 110,Historical,Medium,April to June,Christmas,No,Waterfalls,Cultural Tours
+Tamil Nadu,Fort 173,Natural,Low,April to June,Eid,Yes,Shopping Markets,Shopping
+Karnataka,Palace 281,Historical,Low,April to June,Durga Puja,Yes,Shopping Markets,Hiking
+Uttar Pradesh,Park 435,Natural,Low,April to June,Lohri,Yes,Temples,Hiking
+Assam,Temple 329,Historical,Medium,October to December,Christmas,No,Waterfalls,Wildlife Safari
+Madhya Pradesh,Temple 356,Beach,High,July to September,Lohri,Yes,Waterfalls,Cultural Tours
+Gujarat,Beach 126,Wildlife,Medium,July to September,Pongal,Yes,Temples,Cultural Tours
+Uttar Pradesh,Palace 61,Adventure,High,July to September,Christmas,Yes,Waterfalls,Cultural Tours
+Uttar Pradesh,Palace 195,Hill Station,High,October to December,Christmas,No,Beaches,Photography
+Assam,Beach 320,Cultural,Medium,October to December,Pongal,No,Waterfalls,Photography
+Bihar,Hill Station 379,Wildlife,Medium,October to December,Navratri,Yes,Shopping Markets,Hiking
+Maharashtra,Fort 118,Historical,High,January to March,Bihu,Yes,Waterfalls,Wildlife Safari
+Rajasthan,Palace 72,Religious,Medium,July to September,Lohri,Yes,Shopping Markets,Cultural Tours
+Assam,Park 485,Cultural,High,July to September,Pongal,No,Waterfalls,Shopping
+Uttar Pradesh,Fort 145,Cultural,High,April to June,Holi,No,Waterfalls,Hiking
+Rajasthan,Beach 184,Natural,Medium,July to September,Bihu,Yes,Waterfalls,Cultural Tours
+Madhya Pradesh,Museum 28,Cultural,Low,October to December,Baisakhi,No,Waterfalls,Wildlife Safari
+Bihar,Hill Station 363,Hill Station,High,April to June,Eid,No,Waterfalls,Hiking
+Bihar,Beach 473,Hill Station,Low,April to June,Lohri,No,Waterfalls,Shopping
+Bihar,Beach 459,Cultural,Low,April to June,Diwali,Yes,Shopping Markets,Boating
+Punjab,Museum 207,Hill Station,High,October to December,Pongal,No,Waterfalls,Wildlife Safari
+Uttar Pradesh,Temple 471,Historical,Low,April to June,Eid,No,Waterfalls,Photography
+Bihar,Hill Station 454,Historical,High,July to September,Pongal,Yes,Waterfalls,Photography
+Karnataka,Beach 127,Historical,Medium,October to December,Lohri,No,Beaches,Cultural Tours
+Tamil Nadu,Park 173,Historical,High,April to June,Pongal,Yes,Waterfalls,Shopping
+Karnataka,Beach 162,Historical,High,January to March,Bihu,No,Temples,Hiking
+Tamil Nadu,Fort 274,Beach,High,April to June,Baisakhi,No,Temples,Boating
+Madhya Pradesh,Temple 428,Historical,Low,October to December,Durga Puja,Yes,National Parks,Wildlife Safari
+Punjab,Hill Station 199,Hill Station,Low,January to March,Eid,Yes,Beaches,Boating
+Madhya Pradesh,Museum 107,Cultural,High,October to December,Eid,Yes,Waterfalls,Photography
+Punjab,Temple 143,Adventure,Low,July to September,Pongal,No,Waterfalls,Hiking
+Tamil Nadu,Fort 94,Religious,Low,January to March,Eid,No,Shopping Markets,Photography
+Gujarat,Fort 387,Adventure,High,January to March,Durga Puja,No,Waterfalls,Wildlife Safari
+Tamil Nadu,Hill Station 382,Natural,High,April to June,Baisakhi,No,Waterfalls,Wildlife Safari
+Bihar,Palace 493,Wildlife,High,October to December,Durga Puja,Yes,Shopping Markets,Wildlife Safari
+Madhya Pradesh,Palace 428,Wildlife,Medium,January to March,Navratri,Yes,Shopping Markets,Shopping
+Uttar Pradesh,Palace 155,Religious,Medium,April to June,Christmas,No,Waterfalls,Photography
+Madhya Pradesh,Park 137,Wildlife,Low,January to March,Durga Puja,Yes,Waterfalls,Boating
+Rajasthan,Park 184,Adventure,Medium,April to June,Eid,Yes,National Parks,Boating
+Punjab,Temple 404,Beach,Low,July to September,Christmas,Yes,Temples,Hiking
+Karnataka,Beach 317,Cultural,Medium,April to June,Durga Puja,Yes,Shopping Markets,Hiking
+Madhya Pradesh,Fort 105,Hill Station,High,April to June,Baisakhi,Yes,Shopping Markets,Wildlife Safari
+Karnataka,Temple 103,Adventure,Low,April to June,Eid,No,Waterfalls,Wildlife Safari
+Assam,Temple 2,Natural,High,April to June,Holi,Yes,Waterfalls,Boating
+Karnataka,Park 373,Religious,High,April to June,Baisakhi,Yes,National Parks,Cultural Tours
+Bihar,Fort 204,Historical,High,January to March,Pongal,Yes,Waterfalls,Wildlife Safari
+Punjab,Hill Station 374,Cultural,Low,January to March,Lohri,Yes,Temples,Wildlife Safari
+Rajasthan,Beach 135,Cultural,Low,July to September,Pongal,No,Waterfalls,Cultural Tours
+Bihar,Palace 188,Adventure,High,October to December,Lohri,No,Waterfalls,Shopping
+Madhya Pradesh,Park 203,Cultural,High,April to June,Bihu,Yes,Shopping Markets,Hiking
+Gujarat,Museum 222,Cultural,Low,July to September,Bihu,Yes,Temples,Wildlife Safari
+Madhya Pradesh,Beach 257,Cultural,Medium,July to September,Diwali,Yes,National Parks,Cultural Tours
+Madhya Pradesh,Temple 206,Natural,Low,April to June,Christmas,No,Waterfalls,Photography
+Karnataka,Museum 228,Beach,High,April to June,Diwali,No,Beaches,Wildlife Safari
+Maharashtra,Temple 414,Adventure,High,October to December,Diwali,Yes,National Parks,Shopping
+Punjab,Palace 419,Historical,High,January to March,Durga Puja,No,Temples,Cultural Tours
+Assam,Park 139,Adventure,High,April to June,Durga Puja,Yes,Waterfalls,Cultural Tours
+Madhya Pradesh,Park 83,Cultural,High,April to June,Pongal,Yes,Shopping Markets,Hiking
+Madhya Pradesh,Museum 6,Religious,High,April to June,Bihu,No,National Parks,Cultural Tours
+Bihar,Park 211,Natural,Medium,July to September,Pongal,Yes,National Parks,Boating
+Punjab,Fort 369,Beach,High,July to September,Holi,Yes,Beaches,Shopping
+Assam,Hill Station 416,Hill Station,Low,January to March,Holi,No,Waterfalls,Cultural Tours
+Uttar Pradesh,Hill Station 264,Religious,Medium,January to March,Bihu,No,Waterfalls,Wildlife Safari
+Maharashtra,Hill Station 225,Hill Station,Low,January to March,Pongal,No,National Parks,Hiking
+Maharashtra,Palace 162,Religious,Medium,October to December,Christmas,Yes,Waterfalls,Cultural Tours
+Rajasthan,Park 2,Adventure,High,October to December,Diwali,Yes,Waterfalls,Photography
+Karnataka,Palace 40,Cultural,High,July to September,Baisakhi,Yes,Waterfalls,Hiking
+Maharashtra,Hill Station 2,Adventure,High,October to December,Baisakhi,Yes,Waterfalls,Wildlife Safari
+Gujarat,Beach 326,Adventure,Medium,April to June,Eid,Yes,Temples,Photography
+Bihar,Beach 218,Cultural,Medium,July to September,Lohri,No,Temples,Boating
+Tamil Nadu,Fort 433,Religious,High,July to September,Eid,Yes,Shopping Markets,Hiking
+Tamil Nadu,Park 45,Historical,Low,April to June,Durga Puja,No,National Parks,Photography
+Maharashtra,Hill Station 379,Wildlife,High,July to September,Navratri,Yes,National Parks,Shopping
+Tamil Nadu,Hill Station 499,Religious,Low,January to March,Bihu,No,Beaches,Hiking
+Rajasthan,Beach 121,Cultural,High,January to March,Navratri,No,Waterfalls,Photography
+Maharashtra,Beach 235,Natural,Medium,January to March,Bihu,No,Beaches,Photography
+Karnataka,Palace 151,Natural,Medium,October to December,Bihu,Yes,Beaches,Wildlife Safari
+Maharashtra,Temple 113,Beach,Medium,October to December,Eid,Yes,Waterfalls,Photography
+Punjab,Park 274,Wildlife,Medium,October to December,Bihu,No,Beaches,Boating
+Uttar Pradesh,Museum 43,Hill Station,Low,January to March,Diwali,No,Shopping Markets,Shopping
+Karnataka,Fort 193,Hill Station,High,January to March,Christmas,Yes,Beaches,Boating
+Maharashtra,Fort 249,Hill Station,Low,April to June,Holi,Yes,Temples,Cultural Tours
+Rajasthan,Fort 78,Natural,High,April to June,Baisakhi,Yes,Beaches,Boating
+Tamil Nadu,Palace 286,Natural,Medium,October to December,Holi,No,National Parks,Photography
+Karnataka,Park 433,Cultural,Medium,October to December,Lohri,Yes,Beaches,Wildlife Safari
+Uttar Pradesh,Museum 343,Beach,High,October to December,Diwali,Yes,Shopping Markets,Boating
+Maharashtra,Fort 64,Religious,Low,April to June,Bihu,No,Waterfalls,Cultural Tours
+Bihar,Beach 481,Beach,High,January to March,Durga Puja,Yes,National Parks,Shopping
+Bihar,Temple 304,Wildlife,High,July to September,Durga Puja,Yes,National Parks,Shopping
+Karnataka,Hill Station 163,Natural,Medium,January to March,Lohri,Yes,Shopping Markets,Shopping
+Punjab,Park 194,Historical,Low,October to December,Diwali,Yes,Shopping Markets,Wildlife Safari
+Maharashtra,Temple 271,Adventure,Medium,July to September,Bihu,Yes,National Parks,Boating
+Tamil Nadu,Hill Station 173,Beach,Medium,October to December,Lohri,Yes,Shopping Markets,Wildlife Safari
+Bihar,Temple 303,Cultural,Medium,April to June,Christmas,No,Temples,Boating
+Rajasthan,Fort 435,Cultural,Low,January to March,Pongal,Yes,Waterfalls,Hiking
+Karnataka,Museum 482,Historical,High,January to March,Navratri,Yes,National Parks,Photography
+Maharashtra,Park 165,Beach,High,April to June,Bihu,Yes,Temples,Cultural Tours
+Uttar Pradesh,Hill Station 115,Wildlife,High,April to June,Diwali,No,Waterfalls,Hiking
+Assam,Temple 101,Cultural,High,July to September,Navratri,Yes,Shopping Markets,Boating
+Punjab,Hill Station 433,Beach,Medium,April to June,Navratri,No,Beaches,Boating
+Tamil Nadu,Temple 68,Religious,Low,July to September,Eid,No,Beaches,Wildlife Safari
+Karnataka,Fort 188,Adventure,Low,January to March,Eid,No,Shopping Markets,Boating
+Gujarat,Park 409,Wildlife,High,January to March,Bihu,Yes,Temples,Boating
+Karnataka,Fort 180,Hill Station,Low,April to June,Durga Puja,Yes,Beaches,Hiking
+Assam,Temple 270,Natural,Low,July to September,Holi,No,Beaches,Shopping
+Punjab,Temple 151,Wildlife,Medium,April to June,Holi,Yes,Shopping Markets,Shopping
+Uttar Pradesh,Hill Station 393,Hill Station,High,April to June,Navratri,No,National Parks,Cultural Tours
+Gujarat,Park 448,Cultural,Medium,October to December,Pongal,No,Shopping Markets,Wildlife Safari
+Madhya Pradesh,Fort 401,Wildlife,Medium,April to June,Bihu,Yes,Shopping Markets,Cultural Tours
+Karnataka,Beach 198,Hill Station,Medium,October to December,Pongal,Yes,Waterfalls,Photography
+Maharashtra,Fort 13,Beach,Medium,April to June,Bihu,No,National Parks,Cultural Tours
+Punjab,Museum 126,Wildlife,Low,October to December,Christmas,No,Temples,Shopping
+Karnataka,Museum 312,Natural,Medium,April to June,Lohri,Yes,National Parks,Boating
+Uttar Pradesh,Museum 416,Cultural,High,April to June,Bihu,Yes,Waterfalls,Boating
+Tamil Nadu,Museum 172,Historical,High,January to March,Pongal,Yes,Waterfalls,Cultural Tours
+Uttar Pradesh,Fort 485,Natural,Medium,January to March,Christmas,No,National Parks,Wildlife Safari
+Madhya Pradesh,Temple 235,Cultural,Low,April to June,Pongal,No,Temples,Photography
+Uttar Pradesh,Palace 300,Historical,High,July to September,Christmas,Yes,Temples,Wildlife Safari
+Maharashtra,Temple 395,Cultural,Low,January to March,Bihu,Yes,Shopping Markets,Cultural Tours
+Uttar Pradesh,Fort 58,Historical,Low,July to September,Pongal,Yes,Waterfalls,Boating
+Maharashtra,Fort 497,Beach,Medium,January to March,Bihu,Yes,Waterfalls,Wildlife Safari
+Uttar Pradesh,Museum 368,Beach,Low,October to December,Holi,Yes,Shopping Markets,Cultural Tours
+Bihar,Palace 377,Religious,Low,October to December,Pongal,Yes,Waterfalls,Wildlife Safari
+Uttar Pradesh,Park 388,Natural,Medium,July to September,Lohri,Yes,Waterfalls,Hiking
+Assam,Beach 129,Adventure,High,October to December,Durga Puja,No,Beaches,Photography
+Tamil Nadu,Park 315,Religious,High,April to June,Holi,No,National Parks,Hiking
+Punjab,Palace 377,Hill Station,Medium,April to June,Durga Puja,Yes,Beaches,Cultural Tours
+Uttar Pradesh,Beach 440,Adventure,Medium,April to June,Durga Puja,No,Beaches,Hiking
+Maharashtra,Park 80,Cultural,High,July to September,Eid,Yes,Shopping Markets,Wildlife Safari
+Punjab,Beach 312,Beach,Medium,April to June,Navratri,No,Waterfalls,Photography
+Uttar Pradesh,Fort 354,Hill Station,Medium,January to March,Holi,No,National Parks,Wildlife Safari
+Madhya Pradesh,Museum 492,Beach,Medium,October to December,Baisakhi,No,National Parks,Boating
+Assam,Fort 431,Natural,Medium,July to September,Baisakhi,Yes,National Parks,Hiking
+Tamil Nadu,Palace 104,Wildlife,Low,July to September,Christmas,Yes,Temples,Photography
+Punjab,Temple 72,Adventure,High,January to March,Holi,No,Temples,Shopping
+Punjab,Park 395,Cultural,High,July to September,Holi,No,Temples,Wildlife Safari
+Assam,Fort 1,Cultural,Low,July to September,Lohri,Yes,Shopping Markets,Boating
+Tamil Nadu,Fort 440,Cultural,Medium,July to September,Navratri,No,National Parks,Hiking
+Maharashtra,Hill Station 497,Hill Station,High,January to March,Diwali,Yes,Waterfalls,Wildlife Safari
+Maharashtra,Palace 42,Adventure,Low,April to June,Durga Puja,No,Temples,Boating
+Gujarat,Hill Station 161,Hill Station,Low,January to March,Lohri,Yes,National Parks,Hiking
+Karnataka,Fort 162,Adventure,High,January to March,Christmas,No,Waterfalls,Wildlife Safari
+Uttar Pradesh,Museum 296,Wildlife,Low,October to December,Pongal,Yes,Temples,Photography
+Tamil Nadu,Hill Station 236,Wildlife,High,July to September,Holi,No,National Parks,Hiking
+Rajasthan,Park 352,Natural,High,April to June,Lohri,No,Temples,Boating
+Rajasthan,Palace 418,Hill Station,Medium,July to September,Pongal,Yes,Waterfalls,Hiking
+Rajasthan,Palace 310,Natural,High,July to September,Bihu,Yes,Shopping Markets,Shopping
+Rajasthan,Park 52,Historical,Medium,April to June,Diwali,No,Waterfalls,Cultural Tours
+Bihar,Temple 327,Adventure,High,July to September,Baisakhi,Yes,Temples,Photography
+Uttar Pradesh,Palace 204,Hill Station,High,April to June,Lohri,Yes,Shopping Markets,Hiking
+Assam,Beach 67,Cultural,Low,October to December,Bihu,No,National Parks,Photography
+Bihar,Beach 285,Historical,Medium,October to December,Holi,No,Waterfalls,Cultural Tours
+Gujarat,Fort 278,Historical,Medium,January to March,Diwali,No,Shopping Markets,Wildlife Safari
+Tamil Nadu,Beach 81,Cultural,Low,April to June,Diwali,Yes,Beaches,Photography

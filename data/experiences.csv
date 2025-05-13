@@ -1,0 +1,501 @@
+State,Experience,Category,Popularity,Best Time to Experience,Associated Festival/Event,Duration,Cost Range,Notable Activities
+Himachal Pradesh,Paragliding in Bir Billing,Adventure,High,October to June,Paragliding World Cup,1 Hour,INR 2500 - 3000,"Paragliding, sightseeing, nature walks"
+Goa,Scuba Diving at Grande Island,Adventure,High,November to March,Goa Carnival,Half Day,INR 3000 - 4000,"Scuba diving, snorkeling, boat ride"
+Karnataka,Coffee Plantation Stay in Coorg,Culinary,Medium,September to April,Puthari Festival,1-2 Days,INR 1500 - 2500 per night,"Coffee tasting, nature walks, cultural interactions"
+Gujarat,River Rafting at Jungle 291,Adventure,Medium,January to March,Holi,3 Days,INR 3000 - 4000,Local cuisine tasting
+Karnataka,River Rafting at Village 407,Luxury,Low,October to December,Bihu,1 Hour,INR 3000 - 4000,Shopping
+Maharashtra,River Rafting at Jungle 420,Adventure,Low,April to June,Baisakhi,2 Days,INR 4000 - 5000,Shopping
+Bihar,Camping at Beach 143,Luxury,High,October to December,Pongal,Half Day,INR 3000 - 4000,Nature walks
+Uttar Pradesh,Cooking Class at City 137,Luxury,High,July to September,Holi,1 Day,INR 2000 - 3000,Shopping
+Madhya Pradesh,Trekking at City 374,Wellness,Medium,July to September,Durga Puja,Half Day,INR 3000 - 4000,Shopping
+Maharashtra,Camping at Beach 61,Culinary,Medium,July to September,Baisakhi,1 Day,INR 1000 - 2000,Photography
+Uttar Pradesh,Wildlife Safari at Village 151,Luxury,High,January to March,Christmas,1 Day,INR 1000 - 2000,Boating
+Rajasthan,River Rafting at Beach 183,Wildlife,Low,July to September,Navratri,3 Days,INR 2000 - 3000,Boating
+Bihar,River Rafting at City 107,Adventure,Low,January to March,Navratri,Half Day,INR 3000 - 4000,Boating
+Maharashtra,Camping at City 197,Luxury,Low,July to September,Lohri,1 Hour,INR 3000 - 4000,Boating
+Rajasthan,Trekking at Village 118,Adventure,Low,January to March,Navratri,1 Hour,INR 500 - 1000,Boating
+Bihar,Camping at Beach 351,Cultural,High,July to September,Lohri,2 Days,INR 500 - 1000,Photography
+Gujarat,Trekking at Jungle 42,Eco-Tourism,High,October to December,Pongal,3 Days,INR 1000 - 2000,Photography
+Punjab,Cooking Class at Beach 106,Religious,Low,April to June,Bihu,2 Hours,INR 4000 - 5000,Photography
+Gujarat,Wildlife Safari at Village 337,Eco-Tourism,Medium,October to December,Eid,2 Days,INR 3000 - 4000,Local cuisine tasting
+Uttar Pradesh,Cooking Class at Beach 298,Eco-Tourism,Medium,April to June,Christmas,2 Days,INR 2000 - 3000,Nature walks
+Assam,River Rafting at Jungle 83,Wellness,Medium,January to March,Bihu,1 Day,INR 500 - 1000,Shopping
+Punjab,Camping at Village 111,Luxury,Medium,October to December,Baisakhi,2 Days,INR 1000 - 2000,Local cuisine tasting
+Maharashtra,Wildlife Safari at Beach 37,Luxury,Medium,January to March,Lohri,1 Day,INR 2000 - 3000,Photography
+Rajasthan,River Rafting at Village 319,Eco-Tourism,Low,April to June,Christmas,1 Day,INR 2000 - 3000,Photography
+Karnataka,Trekking at Jungle 437,Culinary,Medium,April to June,Holi,1 Day,INR 3000 - 4000,Photography
+Maharashtra,Trekking at Village 311,Wellness,High,July to September,Holi,2 Days,INR 1000 - 2000,Nature walks
+Assam,Trekking at Mountain 373,Cultural,Medium,July to September,Pongal,2 Days,INR 500 - 1000,Boating
+Uttar Pradesh,Wildlife Safari at Beach 213,Eco-Tourism,High,April to June,Holi,1 Day,INR 4000 - 5000,Local cuisine tasting
+Gujarat,Cooking Class at City 425,Wellness,Medium,July to September,Diwali,2 Days,INR 3000 - 4000,Local cuisine tasting
+Punjab,Trekking at Beach 41,Eco-Tourism,High,July to September,Pongal,3 Days,INR 3000 - 4000,Nature walks
+Maharashtra,Wildlife Safari at Beach 137,Adventure,Medium,October to December,Navratri,3 Days,INR 1000 - 2000,Boating
+Maharashtra,Trekking at Jungle 381,Wellness,Low,April to June,Eid,1 Day,INR 2000 - 3000,Local cuisine tasting
+Rajasthan,Cooking Class at Mountain 374,Eco-Tourism,Medium,October to December,Diwali,2 Days,INR 4000 - 5000,Nature walks
+Karnataka,Cooking Class at City 7,Wildlife,High,January to March,Eid,3 Days,INR 500 - 1000,Nature walks
+Madhya Pradesh,Camping at Village 415,Luxury,High,October to December,Christmas,2 Days,INR 1000 - 2000,Boating
+Assam,Camping at Beach 499,Religious,Low,July to September,Eid,2 Days,INR 1000 - 2000,Boating
+Madhya Pradesh,Camping at Mountain 495,Religious,Medium,July to September,Bihu,2 Days,INR 4000 - 5000,Boating
+Karnataka,River Rafting at City 9,Wildlife,High,January to March,Christmas,2 Hours,INR 500 - 1000,Photography
+Maharashtra,River Rafting at Beach 218,Culinary,Medium,April to June,Eid,Half Day,INR 2000 - 3000,Nature walks
+Rajasthan,Trekking at Village 432,Adventure,Low,October to December,Diwali,3 Days,INR 500 - 1000,Nature walks
+Uttar Pradesh,Cooking Class at Mountain 429,Cultural,Medium,January to March,Navratri,Half Day,INR 500 - 1000,Local cuisine tasting
+Punjab,Wildlife Safari at Jungle 471,Culinary,High,April to June,Navratri,Half Day,INR 2000 - 3000,Shopping
+Gujarat,River Rafting at Jungle 125,Religious,Low,July to September,Navratri,Half Day,INR 2000 - 3000,Photography
+Punjab,Trekking at Jungle 278,Cultural,Low,July to September,Pongal,2 Days,INR 500 - 1000,Shopping
+Maharashtra,Wildlife Safari at City 44,Religious,Medium,January to March,Pongal,Half Day,INR 4000 - 5000,Shopping
+Rajasthan,Camping at City 85,Cultural,Low,January to March,Baisakhi,1 Day,INR 4000 - 5000,Boating
+Maharashtra,River Rafting at City 14,Eco-Tourism,Low,April to June,Diwali,3 Days,INR 4000 - 5000,Shopping
+Madhya Pradesh,Cooking Class at Jungle 354,Culinary,Medium,July to September,Holi,Half Day,INR 4000 - 5000,Boating
+Gujarat,Wildlife Safari at Village 329,Luxury,Low,October to December,Lohri,Half Day,INR 4000 - 5000,Shopping
+Bihar,Trekking at Village 224,Cultural,High,April to June,Diwali,1 Day,INR 4000 - 5000,Photography
+Karnataka,Wildlife Safari at Village 79,Eco-Tourism,Low,January to March,Lohri,3 Days,INR 2000 - 3000,Shopping
+Rajasthan,Cooking Class at Village 63,Culinary,Low,April to June,Navratri,2 Hours,INR 3000 - 4000,Nature walks
+Karnataka,Camping at City 289,Cultural,Low,October to December,Durga Puja,2 Days,INR 1000 - 2000,Photography
+Maharashtra,Trekking at Mountain 267,Adventure,Low,April to June,Lohri,1 Day,INR 2000 - 3000,Shopping
+Punjab,Trekking at Beach 131,Culinary,Low,October to December,Christmas,3 Days,INR 4000 - 5000,Photography
+Maharashtra,Wildlife Safari at Beach 1,Culinary,High,January to March,Eid,3 Days,INR 1000 - 2000,Shopping
+Rajasthan,River Rafting at Jungle 202,Religious,Medium,April to June,Holi,1 Hour,INR 3000 - 4000,Photography
+Tamil Nadu,Camping at Beach 222,Cultural,High,April to June,Navratri,3 Days,INR 500 - 1000,Nature walks
+Bihar,Trekking at Village 286,Eco-Tourism,Low,April to June,Pongal,1 Hour,INR 500 - 1000,Photography
+Gujarat,Cooking Class at Village 499,Wildlife,Medium,January to March,Christmas,3 Days,INR 3000 - 4000,Shopping
+Madhya Pradesh,River Rafting at Beach 466,Adventure,High,April to June,Christmas,Half Day,INR 500 - 1000,Local cuisine tasting
+Uttar Pradesh,Cooking Class at City 13,Eco-Tourism,High,October to December,Christmas,2 Days,INR 500 - 1000,Shopping
+Karnataka,River Rafting at Mountain 400,Cultural,Medium,April to June,Navratri,3 Days,INR 2000 - 3000,Local cuisine tasting
+Karnataka,River Rafting at Jungle 381,Adventure,Low,January to March,Christmas,Half Day,INR 500 - 1000,Nature walks
+Rajasthan,Camping at City 482,Culinary,Low,April to June,Durga Puja,2 Hours,INR 500 - 1000,Photography
+Maharashtra,Wildlife Safari at Village 472,Eco-Tourism,Medium,January to March,Lohri,2 Days,INR 3000 - 4000,Shopping
+Gujarat,River Rafting at City 95,Wellness,Medium,October to December,Durga Puja,2 Days,INR 3000 - 4000,Local cuisine tasting
+Punjab,Cooking Class at Village 219,Religious,High,January to March,Baisakhi,2 Hours,INR 3000 - 4000,Boating
+Maharashtra,Camping at Village 176,Wildlife,Medium,July to September,Lohri,2 Days,INR 3000 - 4000,Local cuisine tasting
+Maharashtra,Cooking Class at Mountain 207,Wildlife,Medium,January to March,Lohri,1 Day,INR 1000 - 2000,Local cuisine tasting
+Rajasthan,Camping at Beach 489,Wildlife,High,April to June,Eid,1 Day,INR 2000 - 3000,Nature walks
+Tamil Nadu,Cooking Class at Village 69,Eco-Tourism,Medium,April to June,Christmas,1 Day,INR 4000 - 5000,Nature walks
+Assam,Trekking at Beach 308,Eco-Tourism,Low,July to September,Christmas,3 Days,INR 2000 - 3000,Nature walks
+Gujarat,Wildlife Safari at Beach 163,Wellness,Medium,July to September,Bihu,Half Day,INR 500 - 1000,Shopping
+Rajasthan,Wildlife Safari at Beach 155,Eco-Tourism,Low,July to September,Lohri,3 Days,INR 3000 - 4000,Local cuisine tasting
+Bihar,Cooking Class at Mountain 183,Luxury,High,October to December,Diwali,1 Hour,INR 3000 - 4000,Shopping
+Uttar Pradesh,Trekking at Village 224,Culinary,Medium,April to June,Baisakhi,1 Hour,INR 2000 - 3000,Shopping
+Assam,Camping at Village 120,Wildlife,Low,October to December,Baisakhi,Half Day,INR 4000 - 5000,Nature walks
+Tamil Nadu,Wildlife Safari at Beach 492,Luxury,High,April to June,Diwali,2 Hours,INR 3000 - 4000,Photography
+Assam,Camping at Beach 318,Luxury,Low,October to December,Navratri,3 Days,INR 500 - 1000,Boating
+Madhya Pradesh,Trekking at Village 471,Culinary,Low,January to March,Diwali,Half Day,INR 2000 - 3000,Local cuisine tasting
+Punjab,Camping at Mountain 207,Culinary,Medium,October to December,Holi,2 Hours,INR 500 - 1000,Shopping
+Bihar,Camping at City 68,Adventure,Medium,January to March,Navratri,2 Days,INR 2000 - 3000,Local cuisine tasting
+Bihar,Camping at Village 365,Adventure,Low,April to June,Christmas,1 Hour,INR 3000 - 4000,Local cuisine tasting
+Gujarat,Wildlife Safari at Mountain 155,Eco-Tourism,High,January to March,Bihu,1 Day,INR 2000 - 3000,Shopping
+Assam,Wildlife Safari at Beach 211,Religious,High,April to June,Durga Puja,1 Hour,INR 3000 - 4000,Shopping
+Punjab,Wildlife Safari at Village 302,Eco-Tourism,Low,January to March,Baisakhi,3 Days,INR 500 - 1000,Photography
+Madhya Pradesh,Wildlife Safari at Jungle 321,Cultural,Low,July to September,Lohri,2 Hours,INR 2000 - 3000,Nature walks
+Tamil Nadu,Camping at City 73,Religious,Low,April to June,Diwali,1 Day,INR 2000 - 3000,Boating
+Bihar,Cooking Class at Beach 43,Eco-Tourism,Low,January to March,Durga Puja,1 Day,INR 500 - 1000,Local cuisine tasting
+Tamil Nadu,Trekking at Mountain 231,Cultural,Medium,April to June,Holi,1 Day,INR 2000 - 3000,Photography
+Gujarat,Wildlife Safari at City 180,Luxury,Medium,January to March,Baisakhi,2 Hours,INR 500 - 1000,Local cuisine tasting
+Tamil Nadu,River Rafting at Mountain 412,Wildlife,High,October to December,Durga Puja,3 Days,INR 4000 - 5000,Nature walks
+Tamil Nadu,Trekking at Beach 254,Adventure,Medium,January to March,Christmas,1 Hour,INR 2000 - 3000,Shopping
+Rajasthan,River Rafting at City 2,Cultural,Medium,April to June,Eid,Half Day,INR 1000 - 2000,Local cuisine tasting
+Punjab,Trekking at Village 224,Luxury,Medium,July to September,Diwali,1 Day,INR 1000 - 2000,Shopping
+Punjab,Camping at Beach 41,Wildlife,Low,January to March,Christmas,1 Hour,INR 2000 - 3000,Nature walks
+Tamil Nadu,Trekking at Beach 162,Wellness,Low,April to June,Bihu,3 Days,INR 1000 - 2000,Boating
+Uttar Pradesh,Trekking at Mountain 249,Wellness,Medium,April to June,Lohri,1 Hour,INR 4000 - 5000,Photography
+Maharashtra,Trekking at Mountain 297,Wildlife,Medium,July to September,Pongal,3 Days,INR 3000 - 4000,Photography
+Karnataka,Trekking at Village 249,Cultural,High,April to June,Pongal,Half Day,INR 4000 - 5000,Nature walks
+Tamil Nadu,Wildlife Safari at Village 358,Luxury,Low,April to June,Pongal,3 Days,INR 4000 - 5000,Photography
+Maharashtra,Trekking at Village 287,Luxury,Low,October to December,Lohri,1 Hour,INR 3000 - 4000,Shopping
+Uttar Pradesh,Camping at Beach 494,Adventure,Low,July to September,Bihu,2 Hours,INR 3000 - 4000,Local cuisine tasting
+Karnataka,Trekking at Mountain 286,Cultural,Low,October to December,Holi,2 Hours,INR 3000 - 4000,Nature walks
+Punjab,Trekking at Village 114,Wildlife,Medium,October to December,Pongal,2 Hours,INR 4000 - 5000,Nature walks
+Rajasthan,Cooking Class at Mountain 266,Eco-Tourism,High,January to March,Eid,3 Days,INR 4000 - 5000,Boating
+Tamil Nadu,Trekking at City 344,Luxury,High,July to September,Christmas,1 Day,INR 500 - 1000,Photography
+Punjab,Wildlife Safari at Village 117,Adventure,High,January to March,Bihu,1 Day,INR 500 - 1000,Boating
+Tamil Nadu,Cooking Class at Beach 350,Culinary,High,April to June,Lohri,Half Day,INR 500 - 1000,Local cuisine tasting
+Gujarat,Trekking at Jungle 493,Wellness,Low,October to December,Holi,1 Hour,INR 1000 - 2000,Shopping
+Uttar Pradesh,River Rafting at Jungle 98,Wellness,Medium,October to December,Navratri,Half Day,INR 1000 - 2000,Local cuisine tasting
+Madhya Pradesh,Wildlife Safari at Village 38,Wellness,High,July to September,Pongal,2 Days,INR 3000 - 4000,Boating
+Uttar Pradesh,River Rafting at Beach 90,Eco-Tourism,Medium,July to September,Baisakhi,1 Day,INR 2000 - 3000,Shopping
+Tamil Nadu,River Rafting at Beach 275,Religious,High,July to September,Durga Puja,2 Days,INR 3000 - 4000,Shopping
+Assam,River Rafting at Village 13,Wildlife,Medium,January to March,Pongal,2 Days,INR 500 - 1000,Nature walks
+Maharashtra,River Rafting at Mountain 424,Wellness,Medium,October to December,Christmas,2 Hours,INR 1000 - 2000,Boating
+Uttar Pradesh,Trekking at Village 366,Cultural,Low,April to June,Eid,3 Days,INR 2000 - 3000,Local cuisine tasting
+Karnataka,River Rafting at Jungle 153,Religious,Low,October to December,Lohri,2 Days,INR 4000 - 5000,Shopping
+Madhya Pradesh,Wildlife Safari at Beach 33,Eco-Tourism,Low,April to June,Baisakhi,1 Hour,INR 3000 - 4000,Shopping
+Rajasthan,Trekking at Beach 490,Luxury,Low,January to March,Navratri,3 Days,INR 500 - 1000,Photography
+Karnataka,River Rafting at Mountain 202,Wildlife,Medium,January to March,Pongal,2 Hours,INR 1000 - 2000,Shopping
+Punjab,Wildlife Safari at Jungle 273,Wellness,Medium,October to December,Bihu,2 Hours,INR 3000 - 4000,Nature walks
+Bihar,Wildlife Safari at Village 66,Wildlife,High,July to September,Navratri,Half Day,INR 2000 - 3000,Local cuisine tasting
+Madhya Pradesh,Wildlife Safari at City 317,Religious,Low,July to September,Bihu,3 Days,INR 1000 - 2000,Local cuisine tasting
+Bihar,Wildlife Safari at Village 63,Wellness,High,January to March,Eid,1 Hour,INR 4000 - 5000,Local cuisine tasting
+Bihar,Wildlife Safari at City 454,Wildlife,Medium,April to June,Christmas,2 Days,INR 4000 - 5000,Photography
+Gujarat,Wildlife Safari at City 230,Luxury,Medium,July to September,Durga Puja,Half Day,INR 2000 - 3000,Local cuisine tasting
+Maharashtra,Cooking Class at Beach 424,Wildlife,Low,October to December,Durga Puja,1 Hour,INR 3000 - 4000,Boating
+Bihar,Wildlife Safari at Jungle 404,Religious,Medium,July to September,Bihu,3 Days,INR 4000 - 5000,Photography
+Gujarat,Cooking Class at Mountain 176,Wellness,Low,January to March,Diwali,3 Days,INR 1000 - 2000,Shopping
+Karnataka,Trekking at City 32,Adventure,Low,July to September,Baisakhi,2 Hours,INR 1000 - 2000,Boating
+Gujarat,River Rafting at Beach 32,Cultural,Medium,October to December,Holi,2 Days,INR 4000 - 5000,Photography
+Bihar,Wildlife Safari at Jungle 183,Religious,High,July to September,Pongal,1 Day,INR 4000 - 5000,Nature walks
+Bihar,Camping at Jungle 133,Luxury,Medium,April to June,Bihu,Half Day,INR 3000 - 4000,Shopping
+Rajasthan,Camping at Mountain 388,Religious,Low,July to September,Durga Puja,3 Days,INR 4000 - 5000,Shopping
+Rajasthan,Wildlife Safari at City 259,Culinary,High,October to December,Christmas,2 Hours,INR 500 - 1000,Shopping
+Rajasthan,River Rafting at Mountain 491,Religious,Low,April to June,Pongal,2 Days,INR 3000 - 4000,Boating
+Bihar,Camping at Mountain 480,Wildlife,Medium,January to March,Baisakhi,Half Day,INR 1000 - 2000,Boating
+Gujarat,Cooking Class at Jungle 35,Adventure,Low,July to September,Navratri,Half Day,INR 2000 - 3000,Shopping
+Maharashtra,Wildlife Safari at Village 483,Culinary,Medium,October to December,Holi,2 Hours,INR 4000 - 5000,Boating
+Assam,Trekking at City 335,Religious,Medium,January to March,Diwali,2 Days,INR 500 - 1000,Nature walks
+Tamil Nadu,River Rafting at Mountain 12,Religious,Medium,April to June,Diwali,Half Day,INR 1000 - 2000,Nature walks
+Maharashtra,Cooking Class at City 139,Wellness,Low,July to September,Bihu,1 Day,INR 4000 - 5000,Photography
+Assam,Wildlife Safari at Mountain 23,Adventure,Low,January to March,Navratri,2 Days,INR 500 - 1000,Boating
+Karnataka,Camping at Jungle 403,Religious,High,April to June,Pongal,3 Days,INR 3000 - 4000,Boating
+Madhya Pradesh,Camping at Jungle 340,Wildlife,Medium,October to December,Bihu,Half Day,INR 4000 - 5000,Shopping
+Punjab,Trekking at Village 14,Wellness,High,April to June,Diwali,2 Hours,INR 500 - 1000,Boating
+Gujarat,River Rafting at Village 421,Luxury,Low,July to September,Baisakhi,2 Days,INR 3000 - 4000,Nature walks
+Assam,River Rafting at Village 97,Cultural,High,January to March,Navratri,2 Hours,INR 2000 - 3000,Shopping
+Rajasthan,Cooking Class at Mountain 367,Religious,Low,October to December,Navratri,3 Days,INR 4000 - 5000,Local cuisine tasting
+Madhya Pradesh,Camping at Mountain 93,Religious,High,October to December,Holi,2 Days,INR 3000 - 4000,Shopping
+Maharashtra,River Rafting at Jungle 226,Wildlife,High,July to September,Baisakhi,2 Hours,INR 3000 - 4000,Nature walks
+Rajasthan,Camping at Village 358,Eco-Tourism,Low,April to June,Navratri,1 Day,INR 500 - 1000,Shopping
+Uttar Pradesh,Camping at City 428,Adventure,Medium,July to September,Diwali,Half Day,INR 2000 - 3000,Shopping
+Assam,Trekking at City 11,Adventure,Medium,October to December,Eid,1 Hour,INR 2000 - 3000,Boating
+Punjab,Wildlife Safari at Jungle 319,Adventure,Low,April to June,Eid,2 Days,INR 1000 - 2000,Boating
+Bihar,Camping at Jungle 381,Religious,Low,January to March,Bihu,1 Hour,INR 500 - 1000,Boating
+Punjab,Cooking Class at Beach 171,Cultural,Medium,April to June,Lohri,1 Day,INR 4000 - 5000,Boating
+Gujarat,Wildlife Safari at Beach 384,Luxury,Low,October to December,Eid,Half Day,INR 1000 - 2000,Shopping
+Maharashtra,Cooking Class at City 344,Cultural,High,July to September,Pongal,Half Day,INR 3000 - 4000,Boating
+Rajasthan,Cooking Class at Mountain 473,Wellness,High,April to June,Lohri,1 Day,INR 2000 - 3000,Nature walks
+Tamil Nadu,Trekking at Jungle 88,Cultural,Medium,July to September,Baisakhi,2 Days,INR 500 - 1000,Nature walks
+Punjab,Camping at Mountain 151,Cultural,Medium,July to September,Lohri,Half Day,INR 1000 - 2000,Shopping
+Assam,Camping at Jungle 395,Religious,Medium,July to September,Diwali,2 Hours,INR 500 - 1000,Local cuisine tasting
+Madhya Pradesh,Trekking at Mountain 354,Cultural,Medium,October to December,Navratri,1 Hour,INR 2000 - 3000,Boating
+Assam,Wildlife Safari at Mountain 474,Eco-Tourism,Low,October to December,Eid,1 Hour,INR 500 - 1000,Nature walks
+Rajasthan,Camping at City 233,Adventure,Medium,April to June,Holi,2 Days,INR 1000 - 2000,Local cuisine tasting
+Bihar,River Rafting at Village 192,Eco-Tourism,Medium,October to December,Diwali,1 Day,INR 500 - 1000,Shopping
+Madhya Pradesh,Cooking Class at Mountain 342,Wildlife,Medium,October to December,Holi,3 Days,INR 500 - 1000,Boating
+Maharashtra,Camping at Beach 60,Wildlife,High,July to September,Baisakhi,3 Days,INR 500 - 1000,Photography
+Bihar,River Rafting at Mountain 23,Luxury,High,April to June,Eid,1 Hour,INR 2000 - 3000,Photography
+Punjab,Trekking at Village 381,Wildlife,Low,April to June,Christmas,Half Day,INR 1000 - 2000,Nature walks
+Assam,Wildlife Safari at Mountain 429,Luxury,High,October to December,Durga Puja,Half Day,INR 4000 - 5000,Boating
+Assam,Cooking Class at Mountain 137,Eco-Tourism,Low,April to June,Navratri,1 Day,INR 3000 - 4000,Shopping
+Gujarat,Cooking Class at Village 385,Religious,High,January to March,Bihu,2 Days,INR 1000 - 2000,Nature walks
+Uttar Pradesh,Wildlife Safari at City 24,Wellness,Low,July to September,Baisakhi,3 Days,INR 3000 - 4000,Boating
+Bihar,Cooking Class at Village 294,Wildlife,High,January to March,Navratri,3 Days,INR 2000 - 3000,Local cuisine tasting
+Rajasthan,Cooking Class at Beach 159,Wellness,Low,October to December,Bihu,2 Hours,INR 3000 - 4000,Boating
+Assam,Cooking Class at City 252,Wildlife,Low,July to September,Baisakhi,Half Day,INR 2000 - 3000,Shopping
+Bihar,Cooking Class at Mountain 183,Luxury,Low,October to December,Lohri,1 Day,INR 500 - 1000,Shopping
+Uttar Pradesh,Trekking at Mountain 346,Luxury,High,July to September,Bihu,2 Days,INR 4000 - 5000,Photography
+Gujarat,River Rafting at Village 416,Eco-Tourism,High,July to September,Eid,1 Day,INR 2000 - 3000,Local cuisine tasting
+Tamil Nadu,River Rafting at Jungle 81,Wellness,High,October to December,Eid,2 Hours,INR 2000 - 3000,Boating
+Maharashtra,River Rafting at Village 450,Adventure,Medium,October to December,Bihu,2 Hours,INR 4000 - 5000,Local cuisine tasting
+Punjab,Trekking at Jungle 67,Culinary,Medium,January to March,Navratri,Half Day,INR 1000 - 2000,Photography
+Maharashtra,Camping at City 454,Luxury,High,April to June,Pongal,Half Day,INR 4000 - 5000,Local cuisine tasting
+Bihar,River Rafting at Mountain 119,Adventure,High,April to June,Navratri,2 Days,INR 500 - 1000,Shopping
+Tamil Nadu,River Rafting at Village 138,Culinary,High,April to June,Lohri,Half Day,INR 2000 - 3000,Shopping
+Tamil Nadu,Cooking Class at Village 16,Adventure,Medium,April to June,Navratri,1 Day,INR 3000 - 4000,Boating
+Assam,River Rafting at City 145,Culinary,Low,October to December,Holi,3 Days,INR 1000 - 2000,Nature walks
+Maharashtra,Camping at Mountain 42,Religious,Low,January to March,Christmas,1 Day,INR 500 - 1000,Shopping
+Gujarat,Wildlife Safari at Village 115,Adventure,High,October to December,Durga Puja,2 Days,INR 4000 - 5000,Shopping
+Madhya Pradesh,Cooking Class at Beach 124,Eco-Tourism,Medium,July to September,Holi,1 Day,INR 500 - 1000,Shopping
+Punjab,Camping at City 76,Eco-Tourism,Medium,October to December,Holi,2 Hours,INR 2000 - 3000,Photography
+Assam,Wildlife Safari at City 377,Eco-Tourism,Medium,July to September,Bihu,2 Days,INR 4000 - 5000,Boating
+Uttar Pradesh,Camping at Village 189,Religious,Low,October to December,Navratri,Half Day,INR 500 - 1000,Shopping
+Tamil Nadu,Wildlife Safari at Beach 227,Culinary,High,April to June,Navratri,1 Day,INR 2000 - 3000,Nature walks
+Uttar Pradesh,Camping at Village 31,Luxury,High,July to September,Christmas,2 Days,INR 1000 - 2000,Boating
+Assam,Cooking Class at Beach 289,Religious,Low,January to March,Baisakhi,2 Days,INR 3000 - 4000,Local cuisine tasting
+Rajasthan,Trekking at Mountain 409,Religious,Medium,July to September,Christmas,2 Hours,INR 2000 - 3000,Local cuisine tasting
+Assam,Trekking at Jungle 448,Luxury,Low,October to December,Navratri,2 Hours,INR 1000 - 2000,Boating
+Karnataka,Trekking at Beach 375,Cultural,High,April to June,Christmas,1 Day,INR 1000 - 2000,Shopping
+Maharashtra,River Rafting at City 247,Wellness,Medium,January to March,Navratri,3 Days,INR 4000 - 5000,Local cuisine tasting
+Uttar Pradesh,Trekking at Beach 66,Eco-Tourism,High,October to December,Baisakhi,1 Hour,INR 3000 - 4000,Boating
+Karnataka,River Rafting at Village 306,Eco-Tourism,High,July to September,Diwali,3 Days,INR 3000 - 4000,Nature walks
+Punjab,Camping at Mountain 147,Culinary,High,October to December,Christmas,2 Hours,INR 3000 - 4000,Shopping
+Punjab,Camping at City 301,Cultural,Low,January to March,Navratri,2 Hours,INR 4000 - 5000,Boating
+Punjab,River Rafting at Jungle 398,Wellness,Medium,January to March,Navratri,1 Day,INR 1000 - 2000,Photography
+Gujarat,Cooking Class at Mountain 197,Wildlife,High,January to March,Pongal,3 Days,INR 3000 - 4000,Shopping
+Madhya Pradesh,Wildlife Safari at Village 470,Wildlife,Low,July to September,Christmas,1 Hour,INR 2000 - 3000,Photography
+Karnataka,Wildlife Safari at City 45,Wildlife,Medium,July to September,Pongal,Half Day,INR 1000 - 2000,Local cuisine tasting
+Assam,River Rafting at Jungle 126,Religious,Medium,January to March,Baisakhi,3 Days,INR 3000 - 4000,Shopping
+Uttar Pradesh,Trekking at Mountain 62,Luxury,High,October to December,Bihu,2 Hours,INR 4000 - 5000,Photography
+Madhya Pradesh,Wildlife Safari at Beach 445,Eco-Tourism,Low,April to June,Bihu,2 Days,INR 500 - 1000,Photography
+Maharashtra,Trekking at Village 292,Religious,Low,January to March,Pongal,2 Days,INR 500 - 1000,Boating
+Karnataka,Wildlife Safari at Jungle 83,Cultural,Medium,January to March,Diwali,2 Hours,INR 3000 - 4000,Boating
+Rajasthan,Trekking at Beach 327,Wellness,High,July to September,Christmas,1 Hour,INR 2000 - 3000,Boating
+Uttar Pradesh,Camping at Village 453,Culinary,Medium,July to September,Durga Puja,3 Days,INR 3000 - 4000,Boating
+Punjab,Wildlife Safari at City 397,Culinary,Medium,July to September,Durga Puja,Half Day,INR 3000 - 4000,Shopping
+Punjab,Trekking at City 259,Adventure,Low,July to September,Lohri,2 Hours,INR 2000 - 3000,Shopping
+Maharashtra,Wildlife Safari at Village 97,Eco-Tourism,Low,July to September,Diwali,Half Day,INR 500 - 1000,Photography
+Assam,River Rafting at City 172,Religious,Medium,April to June,Eid,2 Days,INR 4000 - 5000,Nature walks
+Bihar,River Rafting at City 105,Eco-Tourism,High,January to March,Durga Puja,2 Hours,INR 4000 - 5000,Local cuisine tasting
+Bihar,Camping at Jungle 60,Luxury,Medium,January to March,Bihu,2 Days,INR 4000 - 5000,Local cuisine tasting
+Punjab,River Rafting at Village 437,Religious,Medium,July to September,Bihu,2 Hours,INR 3000 - 4000,Photography
+Maharashtra,Camping at Mountain 161,Cultural,Medium,April to June,Pongal,Half Day,INR 1000 - 2000,Boating
+Assam,Trekking at Jungle 210,Luxury,Medium,October to December,Pongal,2 Hours,INR 2000 - 3000,Nature walks
+Punjab,Cooking Class at Beach 272,Cultural,Medium,January to March,Christmas,2 Hours,INR 2000 - 3000,Nature walks
+Gujarat,Camping at Mountain 238,Wellness,Low,January to March,Diwali,1 Hour,INR 3000 - 4000,Shopping
+Tamil Nadu,Wildlife Safari at Beach 129,Wellness,Medium,July to September,Navratri,1 Hour,INR 1000 - 2000,Local cuisine tasting
+Gujarat,River Rafting at City 73,Wellness,High,April to June,Lohri,1 Hour,INR 2000 - 3000,Shopping
+Karnataka,Cooking Class at Mountain 1,Cultural,High,October to December,Eid,Half Day,INR 2000 - 3000,Shopping
+Assam,River Rafting at Mountain 15,Cultural,Medium,October to December,Pongal,3 Days,INR 500 - 1000,Shopping
+Uttar Pradesh,River Rafting at Beach 39,Wildlife,Medium,October to December,Holi,1 Hour,INR 3000 - 4000,Local cuisine tasting
+Assam,Wildlife Safari at City 87,Luxury,Low,April to June,Christmas,2 Days,INR 4000 - 5000,Boating
+Tamil Nadu,Trekking at Mountain 163,Cultural,Low,October to December,Bihu,1 Day,INR 1000 - 2000,Local cuisine tasting
+Madhya Pradesh,Cooking Class at Beach 112,Culinary,Low,April to June,Pongal,Half Day,INR 3000 - 4000,Nature walks
+Bihar,Camping at Village 80,Wildlife,Medium,July to September,Christmas,1 Day,INR 4000 - 5000,Local cuisine tasting
+Punjab,River Rafting at Mountain 197,Cultural,High,October to December,Christmas,Half Day,INR 4000 - 5000,Nature walks
+Tamil Nadu,Camping at City 402,Eco-Tourism,High,October to December,Lohri,2 Days,INR 4000 - 5000,Photography
+Assam,River Rafting at Beach 261,Adventure,Medium,October to December,Diwali,1 Day,INR 1000 - 2000,Photography
+Karnataka,Cooking Class at City 206,Luxury,High,April to June,Eid,Half Day,INR 3000 - 4000,Photography
+Punjab,Wildlife Safari at Jungle 395,Adventure,High,October to December,Christmas,1 Day,INR 2000 - 3000,Boating
+Assam,Camping at Village 49,Cultural,Low,January to March,Baisakhi,2 Days,INR 500 - 1000,Local cuisine tasting
+Bihar,River Rafting at Beach 223,Religious,Medium,January to March,Baisakhi,1 Day,INR 4000 - 5000,Photography
+Gujarat,Cooking Class at Beach 438,Wildlife,High,April to June,Baisakhi,3 Days,INR 1000 - 2000,Photography
+Bihar,Trekking at Jungle 129,Religious,Low,January to March,Eid,2 Days,INR 500 - 1000,Shopping
+Karnataka,Trekking at City 468,Cultural,Medium,October to December,Holi,3 Days,INR 4000 - 5000,Shopping
+Karnataka,Trekking at Village 387,Religious,Medium,July to September,Christmas,2 Days,INR 500 - 1000,Photography
+Maharashtra,Wildlife Safari at Mountain 448,Luxury,High,January to March,Baisakhi,2 Hours,INR 2000 - 3000,Local cuisine tasting
+Bihar,Camping at Jungle 257,Wildlife,High,October to December,Diwali,2 Hours,INR 1000 - 2000,Shopping
+Bihar,Camping at Beach 323,Luxury,Medium,October to December,Durga Puja,2 Days,INR 1000 - 2000,Boating
+Uttar Pradesh,Trekking at Jungle 271,Religious,Low,April to June,Christmas,2 Hours,INR 1000 - 2000,Boating
+Madhya Pradesh,Cooking Class at City 277,Culinary,High,July to September,Holi,1 Day,INR 3000 - 4000,Nature walks
+Karnataka,River Rafting at Beach 1,Luxury,Low,January to March,Lohri,1 Hour,INR 500 - 1000,Nature walks
+Punjab,Trekking at Beach 311,Eco-Tourism,High,January to March,Navratri,1 Day,INR 500 - 1000,Nature walks
+Rajasthan,Cooking Class at Mountain 18,Wellness,Low,April to June,Bihu,3 Days,INR 2000 - 3000,Photography
+Gujarat,Wildlife Safari at Village 182,Culinary,Medium,October to December,Pongal,2 Days,INR 1000 - 2000,Photography
+Madhya Pradesh,Wildlife Safari at Mountain 471,Wellness,Low,July to September,Holi,1 Hour,INR 500 - 1000,Shopping
+Tamil Nadu,River Rafting at Village 114,Adventure,High,April to June,Diwali,1 Day,INR 3000 - 4000,Local cuisine tasting
+Madhya Pradesh,Wildlife Safari at Mountain 434,Religious,Low,April to June,Christmas,2 Hours,INR 1000 - 2000,Photography
+Bihar,Wildlife Safari at City 89,Cultural,High,October to December,Lohri,Half Day,INR 3000 - 4000,Photography
+Madhya Pradesh,River Rafting at Mountain 92,Religious,High,January to March,Lohri,1 Day,INR 3000 - 4000,Photography
+Gujarat,River Rafting at Jungle 84,Wellness,Low,October to December,Diwali,Half Day,INR 2000 - 3000,Shopping
+Madhya Pradesh,Trekking at Village 313,Adventure,Medium,July to September,Christmas,1 Hour,INR 3000 - 4000,Shopping
+Karnataka,Camping at Mountain 331,Eco-Tourism,Medium,April to June,Navratri,Half Day,INR 4000 - 5000,Photography
+Bihar,Camping at Mountain 314,Wellness,Medium,October to December,Christmas,1 Hour,INR 3000 - 4000,Local cuisine tasting
+Rajasthan,Wildlife Safari at City 311,Luxury,Medium,October to December,Diwali,1 Hour,INR 500 - 1000,Boating
+Punjab,Camping at City 54,Wildlife,High,October to December,Durga Puja,1 Hour,INR 3000 - 4000,Nature walks
+Bihar,River Rafting at City 196,Wellness,Low,April to June,Pongal,1 Hour,INR 500 - 1000,Photography
+Bihar,River Rafting at Jungle 283,Wellness,Low,July to September,Christmas,1 Day,INR 4000 - 5000,Shopping
+Uttar Pradesh,River Rafting at City 156,Culinary,Low,January to March,Lohri,1 Hour,INR 1000 - 2000,Shopping
+Tamil Nadu,Wildlife Safari at Beach 148,Culinary,High,July to September,Baisakhi,2 Days,INR 4000 - 5000,Shopping
+Gujarat,River Rafting at Jungle 277,Cultural,Medium,January to March,Bihu,1 Day,INR 500 - 1000,Local cuisine tasting
+Madhya Pradesh,Trekking at Village 191,Religious,High,April to June,Navratri,2 Days,INR 3000 - 4000,Local cuisine tasting
+Karnataka,Wildlife Safari at City 101,Eco-Tourism,Medium,October to December,Navratri,1 Hour,INR 500 - 1000,Boating
+Karnataka,Cooking Class at Village 164,Luxury,Low,January to March,Eid,2 Hours,INR 2000 - 3000,Nature walks
+Gujarat,River Rafting at Mountain 161,Wellness,Medium,July to September,Christmas,1 Hour,INR 1000 - 2000,Shopping
+Tamil Nadu,Trekking at Village 221,Religious,Medium,July to September,Durga Puja,1 Hour,INR 1000 - 2000,Photography
+Punjab,Cooking Class at Village 453,Religious,High,July to September,Bihu,2 Days,INR 2000 - 3000,Local cuisine tasting
+Punjab,Wildlife Safari at Village 488,Cultural,Low,April to June,Navratri,3 Days,INR 2000 - 3000,Boating
+Tamil Nadu,River Rafting at Village 92,Adventure,Medium,April to June,Lohri,1 Day,INR 3000 - 4000,Shopping
+Bihar,River Rafting at Village 496,Luxury,Medium,October to December,Navratri,2 Days,INR 1000 - 2000,Nature walks
+Rajasthan,Trekking at Village 347,Cultural,Medium,January to March,Navratri,2 Days,INR 1000 - 2000,Boating
+Tamil Nadu,Wildlife Safari at City 78,Cultural,Low,October to December,Navratri,3 Days,INR 3000 - 4000,Nature walks
+Rajasthan,Camping at City 385,Culinary,High,January to March,Navratri,1 Hour,INR 2000 - 3000,Photography
+Karnataka,Camping at City 358,Wellness,Medium,July to September,Christmas,1 Day,INR 500 - 1000,Local cuisine tasting
+Uttar Pradesh,Camping at Beach 382,Wellness,Low,October to December,Navratri,3 Days,INR 4000 - 5000,Local cuisine tasting
+Uttar Pradesh,Cooking Class at Mountain 385,Wildlife,High,April to June,Baisakhi,3 Days,INR 2000 - 3000,Nature walks
+Karnataka,River Rafting at Mountain 230,Wellness,Medium,July to September,Eid,2 Days,INR 1000 - 2000,Local cuisine tasting
+Bihar,River Rafting at City 284,Cultural,Medium,April to June,Christmas,3 Days,INR 2000 - 3000,Nature walks
+Gujarat,Trekking at City 470,Cultural,High,October to December,Lohri,Half Day,INR 500 - 1000,Nature walks
+Maharashtra,Trekking at Mountain 323,Adventure,Medium,April to June,Bihu,2 Hours,INR 1000 - 2000,Shopping
+Bihar,River Rafting at Village 204,Adventure,Low,July to September,Eid,3 Days,INR 4000 - 5000,Boating
+Punjab,Trekking at City 138,Culinary,High,July to September,Pongal,1 Hour,INR 500 - 1000,Shopping
+Gujarat,Cooking Class at Jungle 206,Cultural,Low,January to March,Baisakhi,2 Hours,INR 1000 - 2000,Photography
+Uttar Pradesh,Cooking Class at Mountain 436,Adventure,Medium,January to March,Christmas,2 Days,INR 4000 - 5000,Local cuisine tasting
+Bihar,River Rafting at Village 213,Culinary,Medium,October to December,Navratri,Half Day,INR 3000 - 4000,Local cuisine tasting
+Maharashtra,Camping at Village 233,Wellness,Low,January to March,Diwali,2 Days,INR 1000 - 2000,Nature walks
+Bihar,Cooking Class at City 208,Wellness,Medium,April to June,Bihu,1 Hour,INR 3000 - 4000,Local cuisine tasting
+Karnataka,Trekking at Beach 370,Wellness,Medium,January to March,Diwali,3 Days,INR 500 - 1000,Photography
+Punjab,Wildlife Safari at Jungle 360,Culinary,Low,October to December,Diwali,Half Day,INR 3000 - 4000,Local cuisine tasting
+Assam,Trekking at Mountain 89,Adventure,Low,April to June,Bihu,2 Days,INR 2000 - 3000,Local cuisine tasting
+Madhya Pradesh,Cooking Class at Mountain 76,Luxury,Low,July to September,Navratri,1 Hour,INR 4000 - 5000,Nature walks
+Uttar Pradesh,Cooking Class at City 110,Eco-Tourism,High,July to September,Bihu,1 Day,INR 500 - 1000,Photography
+Assam,River Rafting at City 252,Religious,Medium,July to September,Durga Puja,2 Days,INR 2000 - 3000,Nature walks
+Maharashtra,Cooking Class at Village 306,Religious,Low,January to March,Durga Puja,2 Days,INR 3000 - 4000,Boating
+Assam,Cooking Class at Mountain 153,Cultural,Medium,October to December,Lohri,2 Days,INR 3000 - 4000,Nature walks
+Karnataka,Camping at Mountain 227,Religious,High,January to March,Holi,2 Hours,INR 500 - 1000,Photography
+Bihar,Trekking at Beach 378,Religious,Medium,January to March,Holi,1 Day,INR 2000 - 3000,Nature walks
+Tamil Nadu,Cooking Class at Mountain 106,Religious,Medium,April to June,Navratri,2 Hours,INR 4000 - 5000,Photography
+Uttar Pradesh,Camping at Jungle 245,Wellness,Low,July to September,Durga Puja,Half Day,INR 500 - 1000,Shopping
+Karnataka,Trekking at Village 199,Luxury,Low,July to September,Pongal,1 Hour,INR 2000 - 3000,Nature walks
+Tamil Nadu,Camping at Beach 135,Religious,Medium,July to September,Diwali,1 Day,INR 500 - 1000,Nature walks
+Punjab,Camping at Jungle 43,Eco-Tourism,Medium,April to June,Christmas,Half Day,INR 500 - 1000,Nature walks
+Uttar Pradesh,River Rafting at Jungle 120,Culinary,Medium,July to September,Diwali,2 Hours,INR 500 - 1000,Local cuisine tasting
+Uttar Pradesh,Trekking at Mountain 258,Wildlife,Medium,January to March,Baisakhi,Half Day,INR 1000 - 2000,Boating
+Maharashtra,Cooking Class at City 292,Cultural,Medium,October to December,Navratri,1 Day,INR 4000 - 5000,Boating
+Rajasthan,Cooking Class at Mountain 489,Luxury,Medium,April to June,Navratri,Half Day,INR 4000 - 5000,Shopping
+Madhya Pradesh,Camping at Jungle 285,Cultural,High,January to March,Eid,Half Day,INR 500 - 1000,Nature walks
+Karnataka,River Rafting at Jungle 278,Luxury,Medium,April to June,Lohri,2 Days,INR 3000 - 4000,Shopping
+Gujarat,Camping at Mountain 457,Cultural,Medium,April to June,Eid,1 Hour,INR 1000 - 2000,Nature walks
+Punjab,River Rafting at City 149,Wildlife,Medium,October to December,Bihu,1 Day,INR 4000 - 5000,Nature walks
+Assam,Trekking at Beach 24,Wellness,Low,October to December,Diwali,1 Hour,INR 1000 - 2000,Boating
+Tamil Nadu,Cooking Class at Beach 294,Religious,Medium,January to March,Christmas,3 Days,INR 3000 - 4000,Local cuisine tasting
+Karnataka,Wildlife Safari at City 320,Wildlife,Medium,January to March,Lohri,3 Days,INR 4000 - 5000,Local cuisine tasting
+Gujarat,Cooking Class at Mountain 261,Eco-Tourism,High,July to September,Holi,2 Hours,INR 500 - 1000,Boating
+Rajasthan,River Rafting at City 415,Wildlife,High,April to June,Baisakhi,1 Hour,INR 1000 - 2000,Boating
+Maharashtra,Wildlife Safari at Beach 34,Eco-Tourism,High,October to December,Durga Puja,1 Day,INR 4000 - 5000,Nature walks
+Assam,Cooking Class at Jungle 388,Luxury,Low,April to June,Bihu,1 Hour,INR 4000 - 5000,Shopping
+Punjab,Camping at City 77,Cultural,Low,January to March,Diwali,Half Day,INR 500 - 1000,Photography
+Uttar Pradesh,River Rafting at Village 27,Culinary,High,July to September,Christmas,1 Hour,INR 500 - 1000,Boating
+Madhya Pradesh,Cooking Class at Jungle 142,Religious,Medium,April to June,Navratri,2 Hours,INR 4000 - 5000,Shopping
+Bihar,Camping at Beach 409,Religious,Low,July to September,Holi,2 Hours,INR 1000 - 2000,Boating
+Uttar Pradesh,Camping at Village 481,Adventure,High,July to September,Baisakhi,Half Day,INR 2000 - 3000,Boating
+Punjab,Wildlife Safari at City 407,Wellness,Low,July to September,Durga Puja,3 Days,INR 4000 - 5000,Boating
+Uttar Pradesh,Wildlife Safari at Village 180,Culinary,High,July to September,Pongal,2 Days,INR 2000 - 3000,Local cuisine tasting
+Uttar Pradesh,Wildlife Safari at City 428,Religious,Low,January to March,Lohri,2 Days,INR 4000 - 5000,Local cuisine tasting
+Tamil Nadu,River Rafting at Beach 465,Wellness,Low,January to March,Bihu,Half Day,INR 2000 - 3000,Boating
+Bihar,Wildlife Safari at Jungle 444,Eco-Tourism,Medium,July to September,Pongal,Half Day,INR 2000 - 3000,Local cuisine tasting
+Madhya Pradesh,Trekking at Mountain 75,Wildlife,Medium,April to June,Baisakhi,1 Hour,INR 2000 - 3000,Nature walks
+Bihar,Trekking at Jungle 194,Adventure,Medium,January to March,Lohri,1 Hour,INR 4000 - 5000,Nature walks
+Rajasthan,Camping at Mountain 309,Culinary,Low,July to September,Lohri,1 Day,INR 2000 - 3000,Nature walks
+Maharashtra,Camping at Mountain 22,Cultural,High,January to March,Pongal,1 Hour,INR 1000 - 2000,Photography
+Karnataka,Cooking Class at Mountain 376,Eco-Tourism,High,April to June,Pongal,1 Hour,INR 1000 - 2000,Nature walks
+Punjab,Wildlife Safari at Beach 91,Culinary,Low,October to December,Durga Puja,2 Hours,INR 4000 - 5000,Local cuisine tasting
+Madhya Pradesh,River Rafting at Jungle 390,Wellness,Low,April to June,Navratri,2 Days,INR 4000 - 5000,Local cuisine tasting
+Rajasthan,Cooking Class at Mountain 125,Religious,High,October to December,Baisakhi,1 Day,INR 4000 - 5000,Photography
+Karnataka,Trekking at City 194,Adventure,High,July to September,Pongal,Half Day,INR 1000 - 2000,Photography
+Punjab,Cooking Class at City 193,Wildlife,Low,October to December,Holi,1 Day,INR 500 - 1000,Photography
+Tamil Nadu,Wildlife Safari at City 107,Religious,Low,April to June,Holi,1 Day,INR 2000 - 3000,Local cuisine tasting
+Punjab,River Rafting at Jungle 262,Eco-Tourism,Low,April to June,Baisakhi,1 Hour,INR 2000 - 3000,Nature walks
+Rajasthan,Trekking at Mountain 82,Wellness,High,April to June,Holi,1 Hour,INR 2000 - 3000,Local cuisine tasting
+Gujarat,Camping at Village 131,Culinary,Medium,January to March,Bihu,1 Hour,INR 3000 - 4000,Boating
+Madhya Pradesh,Cooking Class at Beach 405,Cultural,Low,October to December,Christmas,3 Days,INR 4000 - 5000,Photography
+Tamil Nadu,Trekking at Mountain 431,Wellness,Low,July to September,Diwali,2 Hours,INR 2000 - 3000,Photography
+Bihar,Trekking at Village 495,Culinary,Medium,January to March,Navratri,3 Days,INR 2000 - 3000,Boating
+Gujarat,Cooking Class at Jungle 49,Adventure,High,April to June,Bihu,Half Day,INR 2000 - 3000,Local cuisine tasting
+Karnataka,River Rafting at Village 351,Cultural,Medium,January to March,Holi,3 Days,INR 2000 - 3000,Shopping
+Tamil Nadu,Camping at Village 1,Luxury,Medium,October to December,Lohri,2 Days,INR 2000 - 3000,Photography
+Maharashtra,Trekking at Jungle 63,Religious,High,July to September,Bihu,1 Day,INR 1000 - 2000,Shopping
+Karnataka,Wildlife Safari at Beach 101,Eco-Tourism,Medium,January to March,Diwali,1 Day,INR 1000 - 2000,Shopping
+Maharashtra,Camping at Jungle 265,Eco-Tourism,High,October to December,Bihu,1 Hour,INR 3000 - 4000,Photography
+Tamil Nadu,Trekking at Jungle 185,Luxury,High,October to December,Baisakhi,2 Hours,INR 4000 - 5000,Photography
+Uttar Pradesh,Camping at Mountain 107,Eco-Tourism,Medium,July to September,Christmas,2 Hours,INR 500 - 1000,Shopping
+Uttar Pradesh,Cooking Class at Beach 4,Religious,Low,April to June,Lohri,1 Day,INR 4000 - 5000,Boating
+Gujarat,Trekking at Beach 185,Cultural,Low,July to September,Baisakhi,3 Days,INR 1000 - 2000,Shopping
+Gujarat,Cooking Class at City 463,Wellness,Low,October to December,Baisakhi,2 Hours,INR 500 - 1000,Local cuisine tasting
+Punjab,River Rafting at Village 217,Adventure,Medium,October to December,Navratri,2 Hours,INR 4000 - 5000,Boating
+Madhya Pradesh,Trekking at Mountain 16,Wellness,Medium,October to December,Navratri,1 Hour,INR 4000 - 5000,Shopping
+Karnataka,Cooking Class at Village 407,Adventure,High,April to June,Bihu,3 Days,INR 4000 - 5000,Local cuisine tasting
+Karnataka,Wildlife Safari at City 139,Wellness,Low,October to December,Eid,2 Hours,INR 1000 - 2000,Local cuisine tasting
+Maharashtra,Trekking at Village 90,Eco-Tourism,High,April to June,Pongal,2 Hours,INR 4000 - 5000,Nature walks
+Gujarat,River Rafting at Jungle 414,Culinary,High,January to March,Durga Puja,Half Day,INR 500 - 1000,Photography
+Assam,Wildlife Safari at Jungle 409,Religious,High,July to September,Christmas,Half Day,INR 3000 - 4000,Nature walks
+Gujarat,Trekking at Village 478,Culinary,Medium,July to September,Navratri,1 Hour,INR 2000 - 3000,Local cuisine tasting
+Madhya Pradesh,Camping at Beach 445,Cultural,High,July to September,Navratri,3 Days,INR 1000 - 2000,Shopping
+Maharashtra,River Rafting at City 369,Wildlife,High,April to June,Diwali,3 Days,INR 3000 - 4000,Local cuisine tasting
+Tamil Nadu,Wildlife Safari at Beach 264,Culinary,Low,July to September,Navratri,3 Days,INR 4000 - 5000,Boating
+Gujarat,River Rafting at Village 447,Wellness,Low,April to June,Holi,2 Days,INR 2000 - 3000,Photography
+Maharashtra,Cooking Class at Beach 116,Cultural,High,July to September,Pongal,1 Day,INR 500 - 1000,Local cuisine tasting
+Rajasthan,Cooking Class at Village 175,Culinary,Medium,January to March,Eid,Half Day,INR 500 - 1000,Local cuisine tasting
+Karnataka,Cooking Class at Jungle 2,Adventure,High,April to June,Diwali,2 Hours,INR 2000 - 3000,Boating
+Bihar,River Rafting at City 328,Culinary,Medium,July to September,Holi,2 Hours,INR 4000 - 5000,Nature walks
+Madhya Pradesh,River Rafting at Mountain 359,Religious,Low,January to March,Durga Puja,1 Hour,INR 3000 - 4000,Local cuisine tasting
+Karnataka,Cooking Class at Mountain 411,Wellness,High,January to March,Pongal,1 Day,INR 500 - 1000,Local cuisine tasting
+Karnataka,Trekking at Beach 338,Culinary,Medium,January to March,Christmas,2 Days,INR 500 - 1000,Boating
+Madhya Pradesh,Wildlife Safari at Beach 381,Wellness,High,October to December,Lohri,3 Days,INR 3000 - 4000,Nature walks
+Uttar Pradesh,Wildlife Safari at Mountain 228,Eco-Tourism,Low,April to June,Eid,1 Day,INR 1000 - 2000,Local cuisine tasting
+Bihar,Camping at Beach 363,Wellness,Medium,April to June,Navratri,Half Day,INR 1000 - 2000,Photography
+Punjab,Camping at Mountain 436,Eco-Tourism,Medium,April to June,Eid,2 Hours,INR 2000 - 3000,Shopping
+Gujarat,River Rafting at Jungle 73,Eco-Tourism,High,October to December,Eid,1 Hour,INR 4000 - 5000,Photography
+Rajasthan,Camping at Mountain 121,Culinary,Low,October to December,Lohri,1 Hour,INR 4000 - 5000,Local cuisine tasting
+Tamil Nadu,River Rafting at City 95,Religious,Low,April to June,Navratri,3 Days,INR 2000 - 3000,Shopping
+Gujarat,Camping at Jungle 437,Cultural,Low,April to June,Pongal,2 Days,INR 500 - 1000,Nature walks
+Punjab,River Rafting at Village 208,Luxury,Low,October to December,Bihu,2 Days,INR 3000 - 4000,Nature walks
+Maharashtra,River Rafting at Jungle 127,Eco-Tourism,Medium,January to March,Diwali,3 Days,INR 1000 - 2000,Photography
+Tamil Nadu,River Rafting at City 325,Culinary,Low,July to September,Durga Puja,Half Day,INR 4000 - 5000,Local cuisine tasting
+Tamil Nadu,Trekking at Beach 256,Culinary,High,October to December,Eid,2 Days,INR 1000 - 2000,Nature walks
+Punjab,Camping at City 420,Luxury,Medium,January to March,Lohri,2 Days,INR 500 - 1000,Photography
+Maharashtra,Wildlife Safari at Village 338,Wildlife,Medium,April to June,Baisakhi,1 Day,INR 2000 - 3000,Local cuisine tasting
+Bihar,Camping at Jungle 38,Luxury,Low,January to March,Eid,Half Day,INR 500 - 1000,Nature walks
+Rajasthan,Trekking at Mountain 128,Adventure,Medium,July to September,Baisakhi,2 Days,INR 2000 - 3000,Nature walks
+Gujarat,Camping at Jungle 121,Luxury,High,January to March,Baisakhi,1 Day,INR 1000 - 2000,Nature walks
+Karnataka,Trekking at City 448,Eco-Tourism,Low,April to June,Bihu,1 Hour,INR 500 - 1000,Boating
+Tamil Nadu,Trekking at Mountain 259,Culinary,High,April to June,Holi,1 Hour,INR 4000 - 5000,Boating
+Tamil Nadu,Cooking Class at Village 98,Cultural,Low,April to June,Durga Puja,1 Hour,INR 4000 - 5000,Local cuisine tasting
+Karnataka,Trekking at Village 333,Wellness,Low,October to December,Durga Puja,2 Hours,INR 2000 - 3000,Photography
+Rajasthan,Cooking Class at City 311,Luxury,High,October to December,Lohri,3 Days,INR 1000 - 2000,Shopping
+Punjab,River Rafting at Mountain 47,Luxury,Medium,October to December,Bihu,Half Day,INR 2000 - 3000,Nature walks
+Rajasthan,Wildlife Safari at Jungle 164,Adventure,Medium,January to March,Durga Puja,3 Days,INR 2000 - 3000,Boating
+Maharashtra,River Rafting at Mountain 290,Cultural,Medium,January to March,Lohri,3 Days,INR 4000 - 5000,Local cuisine tasting
+Assam,River Rafting at Mountain 121,Adventure,Low,July to September,Eid,1 Hour,INR 4000 - 5000,Photography
+Uttar Pradesh,Trekking at Village 193,Culinary,High,January to March,Eid,2 Days,INR 2000 - 3000,Boating
+Karnataka,Trekking at City 206,Culinary,Medium,January to March,Lohri,1 Hour,INR 1000 - 2000,Local cuisine tasting
+Maharashtra,River Rafting at City 487,Wildlife,Low,July to September,Christmas,1 Hour,INR 500 - 1000,Boating
+Maharashtra,Camping at Village 333,Cultural,Medium,July to September,Pongal,3 Days,INR 3000 - 4000,Local cuisine tasting
+Assam,Trekking at Mountain 124,Luxury,High,October to December,Bihu,2 Days,INR 2000 - 3000,Shopping
+Bihar,Wildlife Safari at Beach 379,Luxury,Low,January to March,Pongal,3 Days,INR 2000 - 3000,Photography
+Maharashtra,Wildlife Safari at Village 257,Wellness,High,April to June,Lohri,1 Hour,INR 1000 - 2000,Boating
+Bihar,River Rafting at Jungle 431,Wellness,Medium,October to December,Diwali,1 Day,INR 2000 - 3000,Local cuisine tasting
+Rajasthan,Camping at Beach 64,Wellness,High,April to June,Navratri,3 Days,INR 2000 - 3000,Boating
+Gujarat,Cooking Class at Beach 358,Culinary,Medium,April to June,Durga Puja,Half Day,INR 3000 - 4000,Photography
+Bihar,Camping at City 413,Cultural,Low,January to March,Navratri,3 Days,INR 3000 - 4000,Boating
+Bihar,Camping at Beach 109,Religious,Medium,April to June,Durga Puja,1 Day,INR 4000 - 5000,Shopping
+Assam,Trekking at Village 160,Wildlife,High,April to June,Christmas,2 Days,INR 2000 - 3000,Photography
+Punjab,River Rafting at Jungle 137,Adventure,Low,July to September,Durga Puja,2 Days,INR 1000 - 2000,Photography
+Punjab,Trekking at Jungle 129,Luxury,High,July to September,Holi,3 Days,INR 500 - 1000,Local cuisine tasting
+Tamil Nadu,River Rafting at City 291,Adventure,Low,July to September,Durga Puja,3 Days,INR 3000 - 4000,Local cuisine tasting
+Rajasthan,River Rafting at Village 11,Religious,Low,April to June,Durga Puja,3 Days,INR 1000 - 2000,Boating
+Madhya Pradesh,River Rafting at City 247,Wellness,Medium,January to March,Eid,Half Day,INR 4000 - 5000,Boating
+Karnataka,Trekking at City 281,Adventure,Low,April to June,Diwali,1 Day,INR 1000 - 2000,Nature walks
+Karnataka,Trekking at Village 188,Eco-Tourism,Medium,October to December,Holi,2 Days,INR 1000 - 2000,Local cuisine tasting
+Madhya Pradesh,Cooking Class at Mountain 79,Cultural,Low,July to September,Baisakhi,3 Days,INR 1000 - 2000,Photography
+Assam,Trekking at City 14,Culinary,Medium,April to June,Durga Puja,3 Days,INR 2000 - 3000,Nature walks
+Karnataka,Wildlife Safari at City 76,Religious,Medium,October to December,Navratri,1 Hour,INR 4000 - 5000,Boating
+Gujarat,Wildlife Safari at Beach 191,Religious,Low,July to September,Durga Puja,Half Day,INR 2000 - 3000,Nature walks
+Uttar Pradesh,River Rafting at Mountain 462,Eco-Tourism,Low,January to March,Christmas,3 Days,INR 3000 - 4000,Shopping
+Uttar Pradesh,Trekking at Mountain 37,Luxury,Low,April to June,Bihu,2 Days,INR 2000 - 3000,Nature walks
+Rajasthan,Cooking Class at Village 31,Luxury,Medium,April to June,Christmas,3 Days,INR 3000 - 4000,Nature walks
+Gujarat,Cooking Class at City 283,Wellness,Medium,July to September,Diwali,2 Days,INR 3000 - 4000,Shopping
+Maharashtra,Camping at Jungle 177,Luxury,High,July to September,Bihu,2 Days,INR 1000 - 2000,Photography
+Tamil Nadu,Trekking at Mountain 127,Adventure,Medium,July to September,Baisakhi,2 Days,INR 3000 - 4000,Nature walks
+Rajasthan,River Rafting at City 330,Cultural,Low,October to December,Baisakhi,3 Days,INR 500 - 1000,Local cuisine tasting
+Uttar Pradesh,Wildlife Safari at Beach 115,Wellness,Low,April to June,Pongal,2 Days,INR 3000 - 4000,Nature walks
+Rajasthan,Camping at Beach 405,Religious,Medium,April to June,Christmas,2 Days,INR 2000 - 3000,Boating
+Rajasthan,River Rafting at Village 325,Wellness,High,July to September,Baisakhi,2 Days,INR 2000 - 3000,Nature walks
+Madhya Pradesh,River Rafting at Jungle 285,Luxury,Medium,July to September,Lohri,Half Day,INR 2000 - 3000,Boating
+Assam,Camping at Beach 484,Cultural,Low,January to March,Holi,3 Days,INR 500 - 1000,Local cuisine tasting
+Assam,River Rafting at Beach 362,Cultural,Low,January to March,Eid,1 Hour,INR 500 - 1000,Nature walks
+Madhya Pradesh,River Rafting at Mountain 460,Culinary,Low,April to June,Eid,1 Day,INR 2000 - 3000,Boating
+Bihar,Cooking Class at Village 52,Cultural,High,October to December,Durga Puja,Half Day,INR 2000 - 3000,Boating
+Madhya Pradesh,Trekking at Mountain 472,Religious,Medium,January to March,Christmas,3 Days,INR 3000 - 4000,Shopping
+Uttar Pradesh,Trekking at City 1,Wildlife,Low,January to March,Durga Puja,1 Hour,INR 3000 - 4000,Nature walks
+Madhya Pradesh,Wildlife Safari at City 289,Cultural,Low,April to June,Diwali,1 Hour,INR 4000 - 5000,Local cuisine tasting
+Uttar Pradesh,Wildlife Safari at Jungle 435,Religious,Low,January to March,Navratri,1 Hour,INR 4000 - 5000,Photography
+Gujarat,Trekking at Beach 9,Eco-Tourism,Medium,October to December,Pongal,Half Day,INR 4000 - 5000,Boating
+Madhya Pradesh,River Rafting at Jungle 383,Luxury,High,January to March,Bihu,2 Hours,INR 500 - 1000,Nature walks
+Gujarat,Trekking at City 293,Luxury,High,July to September,Lohri,1 Day,INR 2000 - 3000,Local cuisine tasting
+Madhya Pradesh,River Rafting at Jungle 233,Religious,High,July to September,Baisakhi,2 Hours,INR 3000 - 4000,Photography
+Uttar Pradesh,Wildlife Safari at Mountain 490,Cultural,High,January to March,Lohri,1 Day,INR 2000 - 3000,Photography
+Tamil Nadu,River Rafting at Village 251,Culinary,High,October to December,Bihu,3 Days,INR 3000 - 4000,Shopping
+Assam,River Rafting at Beach 122,Religious,Medium,October to December,Eid,1 Day,INR 500 - 1000,Boating
+Punjab,River Rafting at Village 138,Religious,Medium,April to June,Eid,3 Days,INR 3000 - 4000,Shopping
+Gujarat,River Rafting at Beach 395,Luxury,Low,July to September,Holi,Half Day,INR 1000 - 2000,Shopping
+Assam,Wildlife Safari at Mountain 266,Wildlife,Medium,April to June,Durga Puja,2 Hours,INR 4000 - 5000,Shopping
+Bihar,Camping at City 28,Eco-Tourism,Medium,July to September,Durga Puja,3 Days,INR 2000 - 3000,Shopping
+Assam,Wildlife Safari at City 352,Wellness,Low,July to September,Christmas,2 Hours,INR 3000 - 4000,Nature walks
+Punjab,Wildlife Safari at Jungle 180,Eco-Tourism,Low,July to September,Eid,Half Day,INR 2000 - 3000,Photography
+Gujarat,Cooking Class at Beach 297,Eco-Tourism,Low,July to September,Holi,2 Hours,INR 500 - 1000,Local cuisine tasting
+Assam,Wildlife Safari at Mountain 33,Luxury,Low,January to March,Pongal,Half Day,INR 500 - 1000,Photography
+Punjab,Cooking Class at City 461,Wellness,Medium,January to March,Holi,Half Day,INR 2000 - 3000,Local cuisine tasting
+Gujarat,Camping at Mountain 277,Wildlife,Low,October to December,Navratri,1 Day,INR 4000 - 5000,Local cuisine tasting
+Tamil Nadu,Trekking at Beach 389,Adventure,Medium,April to June,Eid,Half Day,INR 3000 - 4000,Photography
+Rajasthan,Trekking at Beach 24,Wildlife,High,January to March,Bihu,2 Hours,INR 3000 - 4000,Boating
+Punjab,Trekking at Village 133,Culinary,Medium,July to September,Diwali,3 Days,INR 500 - 1000,Shopping
+Assam,Trekking at City 71,Luxury,Low,October to December,Navratri,1 Hour,INR 2000 - 3000,Local cuisine tasting
+Karnataka,Camping at Village 234,Eco-Tourism,High,October to December,Navratri,3 Days,INR 4000 - 5000,Nature walks
+Bihar,Cooking Class at City 455,Wellness,High,April to June,Diwali,2 Days,INR 3000 - 4000,Nature walks
+Punjab,Wildlife Safari at Beach 490,Religious,Low,October to December,Christmas,1 Hour,INR 500 - 1000,Shopping
+Gujarat,Trekking at Mountain 137,Adventure,High,April to June,Navratri,1 Day,INR 2000 - 3000,Photography
+Bihar,Wildlife Safari at Jungle 57,Religious,High,January to March,Navratri,1 Day,INR 1000 - 2000,Photography
+Tamil Nadu,Camping at City 449,Religious,High,January to March,Navratri,2 Hours,INR 2000 - 3000,Local cuisine tasting
+Rajasthan,Wildlife Safari at Mountain 273,Cultural,Medium,April to June,Pongal,3 Days,INR 2000 - 3000,Photography
+Gujarat,Cooking Class at Mountain 279,Cultural,Medium,July to September,Diwali,1 Day,INR 500 - 1000,Local cuisine tasting
+Maharashtra,Wildlife Safari at Mountain 201,Eco-Tourism,High,January to March,Durga Puja,1 Day,INR 1000 - 2000,Local cuisine tasting
+Rajasthan,Cooking Class at Jungle 281,Wellness,Low,January to March,Lohri,3 Days,INR 1000 - 2000,Photography
+Gujarat,Cooking Class at Jungle 263,Wildlife,Low,January to March,Pongal,Half Day,INR 2000 - 3000,Photography
+Tamil Nadu,River Rafting at Village 47,Adventure,High,October to December,Eid,1 Day,INR 2000 - 3000,Local cuisine tasting
+Punjab,Camping at City 226,Eco-Tourism,High,October to December,Diwali,3 Days,INR 4000 - 5000,Photography
+Rajasthan,Cooking Class at Mountain 96,Cultural,High,January to March,Eid,1 Day,INR 500 - 1000,Nature walks
+Bihar,Cooking Class at City 285,Wildlife,Medium,January to March,Bihu,1 Day,INR 3000 - 4000,Boating
+Bihar,River Rafting at Mountain 276,Adventure,Low,July to September,Bihu,2 Hours,INR 500 - 1000,Local cuisine tasting
+Bihar,Camping at Beach 491,Eco-Tourism,High,April to June,Durga Puja,2 Hours,INR 4000 - 5000,Boating
+Punjab,Trekking at City 476,Adventure,High,January to March,Holi,2 Hours,INR 3000 - 4000,Photography
+Maharashtra,Trekking at Mountain 313,Wildlife,High,July to September,Durga Puja,2 Days,INR 1000 - 2000,Local cuisine tasting
+Punjab,Cooking Class at Jungle 204,Luxury,Medium,April to June,Holi,1 Hour,INR 1000 - 2000,Local cuisine tasting
+Bihar,Camping at Mountain 421,Culinary,Medium,January to March,Bihu,1 Hour,INR 500 - 1000,Photography
+Bihar,Cooking Class at City 269,Wildlife,High,April to June,Diwali,3 Days,INR 4000 - 5000,Local cuisine tasting
